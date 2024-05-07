@@ -1,4 +1,4 @@
-. In this study, we reconstructed a GEM for
+In this study, we reconstructed a GEM for
 the reference strain 477 and extended the GEM construction workflow for six different strains of H.
 influenzae, two from each of the three main phylogenetic clades. All of the simulations and model
 validations were performed using cobratoolbox of the MATLAB. Based on the strain specific study, H.
