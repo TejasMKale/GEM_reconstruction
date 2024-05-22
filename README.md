@@ -9,3 +9,6 @@ all the strains, while arginine and histidine were auxotrophic amino acids. GEMs
 biomass and polysaccharide capsule under experimental conditions provided in the literature and they
 were verified with respect to growth rate and growth trends. Gene essentiality analysis identified the
 essential genes required for bacterial growth and can thus be focused for drug targets.
+
+![image](https://github.com/TejasMKale/GEM_reconstruction/assets/110218791/c5349b59-8428-4aec-b36b-231c74547c70)
+
