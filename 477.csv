@@ -1,0 +1,561 @@
+,Joined,Locus tag,Name
+0,NZ_CP007470.1_1203328_1203855,NTHI477_RS05750,inorganic diphosphatase
+1,NZ_CP007470.1_85210_86919,NTHI477_RS00365,acetolactate synthase 3 large subunit
+2,NZ_CP007470.1_86931_87404,NTHI477_RS00370,acetolactate synthase small subunit
+3,NZ_CP007470.1_809445_810968,NTHI477_RS03845,catalase
+4,NZ_CP007470.1_421384_423993,NTHI477_RS02035,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+5,NZ_CP007470.1_778823_779875,NTHI477_RS03685,beta-N-acetylhexosaminidase
+6,NZ_CP007470.1_46262_46921,NTHI477_RS00220,lipooligosaccharide biosynthesis galactosyltransferase LsgF
+7,NZ_CP007470.1_498885_499490,NTHI477_RS02355,riboflavin synthase
+8,NZ_CP007470.1_1615058_1616587,NTHI477_RS07905,F0F1 ATP synthase subunit alpha
+9,NZ_CP007470.1_1612774_1614141,NTHI477_RS07895,F0F1 ATP synthase subunit beta
+10,NZ_CP007470.1_1614164_1615030,NTHI477_RS07900,F0F1 ATP synthase subunit gamma
+11,NZ_CP007470.1_1616603_1617133,NTHI477_RS07910,F0F1 ATP synthase subunit delta
+12,NZ_CP007470.1_1339526_1342333,NTHI477_RS06370,excinuclease ABC subunit UvrA
+13,NZ_CP007470.1_263879_264646,NTHI477_RS01385,phosphate ABC transporter ATP-binding protein PstB
+14,NZ_CP007470.1_49697_50749,NTHI477_RS00240,molybdenum ABC transporter ATP-binding protein ModC
+15,NZ_CP007470.1_1783283_1784749,NTHI477_RS08755,thiol reductant ABC exporter subunit CydC
+16,NZ_CP007470.1_594914_596539,NTHI477_RS02850,cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+17,NZ_CP007470.1_593058_594812,NTHI477_RS02845,cysteine/glutathione ABC transporter permease/ATP-binding protein CydD
+18,NZ_CP007470.1_1781587_1783071,NTHI477_RS08750,ABC transporter ATP-binding protein/permease
+19,NZ_CP007470.1_1161007_1162035,NTHI477_RS05555,heme ABC transporter ATP-binding protein FbpC
+20,NZ_CP007470.1_318912_320048,NTHI477_RS01565,spermidine/putrescine ABC transporter ATP-binding protein PotA
+21,NZ_CP007470.1_48074_48838,NTHI477_RS00230,molybdate ABC transporter substrate-binding protein
+22,NZ_CP007470.1_698508_700334,NTHI477_RS03340,ABC transporter ATP-binding protein
+23,NZ_CP007470.1_1098176_1099705,NTHI477_RS05255,ABC transporter ATP-binding protein/permease
+24,NZ_CP007470.1_1630838_1632295,NTHI477_RS08005,ribose ABC transporter ATP-binding protein RbsA
+25,NZ_CP007470.1_1121114_1122691,NTHI477_RS05380,lipid A ABC transporter ATP-binding protein/permease MsbA
+26,NZ_CP007470.1_915809_917314,NTHI477_RS04350,galactose/methyl galactoside ABC transporter ATP-binding protein MglA
+27,NZ_CP007470.1_569643_570590,NTHI477_RS02720,peptide ABC transporter ATP-binding protein
+28,NZ_CP007470.1_633275_634156,NTHI477_RS03025,murein tripeptide/oligopeptide ABC transporter ATP binding protein OppF
+29,NZ_CP007470.1_568627_569448,NTHI477_RS02715,dipeptide ABC transporter ATP-binding protein
+30,NZ_CP007470.1_663738_664526,NTHI477_RS03180,phospholipid ABC transporter ATP-binding protein MlaF
+31,NZ_CP007470.1_632205_633146,NTHI477_RS03020,ABC transporter ATP-binding protein
+32,NZ_CP007470.1_670142_670888,NTHI477_RS03225,amino acid ABC transporter ATP-binding protein
+33,NZ_CP007470.1_1841178_1842578,NTHI477_RS09035,TrkH family potassium uptake protein
+34,NZ_CP007470.1_572354_573082,NTHI477_RS02735,arginine ABC transporter ATP-binding protein ArtP
+35,NZ_CP007470.1_398512_399987,NTHI477_RS01940,energy-dependent translational throttle protein EttA
+36,NZ_CP007470.1_1019182_1020213,NTHI477_RS04885,methionine ABC transporter ATP-binding protein MetN
+37,NZ_CP007470.1_1235758_1237125,NTHI477_RS05915,glutathione-disulfide reductase
+38,NZ_CP007470.1_1593280_1594065,NTHI477_RS07800,nucleoside triphosphate pyrophosphohydrolase
+39,NZ_CP007470.1_783006_783458,NTHI477_RS03710,dUTP diphosphatase
+40,NZ_CP007470.1_1564524_1565306,NTHI477_RS07650,NAD(+) diphosphatase
+41,NZ_CP007470.1_1137590_1138462,NTHI477_RS05435,NAD(+) kinase
+42,NZ_CP007470.1_294634_296169,NTHI477_RS01490,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+43,NZ_CP007470.1_293196_294617,NTHI477_RS01485,Re/Si-specific NAD(P)(+) transhydrogenase subunit beta
+44,NZ_CP007470.1_1623255_1623959,NTHI477_RS07970,acid phosphatase AphA
+45,NZ_CP007470.1_123030_124559,NTHI477_RS00580,signal peptide peptidase SppA
+46,NZ_CP007470.1_1819213_1819944,NTHI477_RS08925,5'/3'-nucleotidase SurE
+47,NZ_CP007470.1_1808545_1809264,NTHI477_RS08885,lipoprotein e(P4)
+48,NZ_CP007470.1_1436408_1437046,NTHI477_RS06900,adenylate kinase
+49,NZ_CP007470.1_852310_852927,NTHI477_RS04040,dephospho-CoA kinase
+50,NZ_CP007470.1_1672874_1674589,NTHI477_RS08180,urease subunit alpha
+51,NZ_CP007470.1_1674986_1675285,NTHI477_RS08190,urease subunit gamma
+52,NZ_CP007470.1_964399_965445,NTHI477_RS04655,uncharacterized gene
+53,NZ_CP007470.1_869129_869551,NTHI477_RS04115,nucleoside-diphosphate kinase
+54,NZ_CP007470.1_1058844_1059467,NTHI477_RS05070,guanylate kinase
+55,NZ_CP007470.1_686309_687019,NTHI477_RS03290,UMP kinase
+56,NZ_CP007470.1_774222_775100,NTHI477_RS03665,bifunctional riboflavin kinase/FAD synthetase
+57,NZ_CP007470.1_1728884_1729675,NTHI477_RS08450,Cof-type HAD-IIB family hydrolase
+58,NZ_CP007470.1_1536995_1537855,NTHI477_RS07525,pyridoxal kinase
+59,NZ_CP007470.1_577101_578243,NTHI477_RS02770,methionine adenosyltransferase
+60,NZ_CP007470.1_642874_644013,NTHI477_RS03070,MalY/PatB family protein
+61,NZ_CP007470.1_1279376_1281052,NTHI477_RS06135,NAD nucleotidase
+62,NZ_CP007470.1_1689628_1690434,NTHI477_RS08280,"3'(2'),5'-bisphosphate nucleotidase CysQ"
+63,NZ_CP007470.1_427409_427948,NTHI477_RS02050,adenine phosphoribosyltransferase
+64,NZ_CP007470.1_599028_599552,NTHI477_RS02870,hypoxanthine phosphoribosyltransferase
+65,NZ_CP007470.1_535834_536520,NTHI477_RS02550,5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+66,NZ_CP007470.1_1052067_1053194,NTHI477_RS05045,FMN-dependent L-lactate dehydrogenase LldD
+67,NZ_CP007470.1_585357_588434,NTHI477_RS02815,FAD-binding and (Fe-S)-binding domain-containing protein
+68,NZ_CP007470.1_1121117_1122850,NTHI477_RS05380,lipid A ABC transporter ATP-binding protein/permease MsbA
+69,NZ_CP007470.1_97090_98508,NTHI477_RS00425,pyruvate kinase
+70,NZ_CP007470.1_425837_427210,NTHI477_RS02045,dihydrolipoyl dehydrogenase
+71,NZ_CP007470.1_424413_425708,NTHI477_RS02040,pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase
+72,NZ_CP007470.1_453798_455024,NTHI477_RS02175,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+73,NZ_CP007470.1_1251247_1253526,NTHI477_RS06000,formate C-acetyltransferase
+74,NZ_CP007470.1_408637_409812,NTHI477_RS01980,NADP-dependent malic enzyme
+75,NZ_CP007470.1_753059_754132,NTHI477_RS03550,3-isopropylmalate dehydrogenase
+76,NZ_CP007470.1_408643_409851,NTHI477_RS01980,NADP-dependent malic enzyme
+77,NZ_CP007470.1_408643_409863,NTHI477_RS01985,DUF1919 domain-containing protein
+78,NZ_CP007470.1_1382604_1383959,NTHI477_RS06595,L-serine ammonia-lyase
+79,NZ_CP007470.1_993210_994718,NTHI477_RS04775,"threonine ammonia-lyase, biosynthetic"
+80,NZ_CP007470.1_549484_551616,NTHI477_RS02615,phosphate acetyltransferase
+81,NZ_CP007470.1_957268_958446,NTHI477_RS04615,acetyl-CoA C-acetyltransferase
+82,NZ_CP007470.1_840020_841117,NTHI477_RS03990,glutamate 5-kinase
+83,NZ_CP007470.1_1262389_1263675,NTHI477_RS06050,NADP-specific glutamate dehydrogenase
+84,NZ_CP007470.1_1262329_1263672,NTHI477_RS06050,NADP-specific glutamate dehydrogenase
+85,NZ_CP007470.1_11544_12272,NTHI477_RS00060,5-oxoprolinase subunit PxpA
+86,NZ_CP007470.1_9999_10604,NTHI477_RS00050,5-oxoprolinase subunit PxpB
+87,NZ_CP007470.1_872072_873460,NTHI477_RS04130,glutamate--ammonia ligase
+88,NZ_CP007470.1_1607860_1608438,NTHI477_RS07865,imidazole glycerol phosphate synthase subunit HisH
+89,NZ_CP007470.1_439696_440265,NTHI477_RS02115,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT
+90,NZ_CP007470.1_1379900_1381111,NTHI477_RS06585,pyridoxal phosphate-dependent aminotransferase
+91,NZ_CP007470.1_929709_931079,NTHI477_RS04410,argininosuccinate lyase
+92,NZ_CP007470.1_1053411_1054217,NTHI477_RS05050,glutamate racemase
+93,NZ_CP007470.1_1376768_1378456,NTHI477_RS06570,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+94,NZ_CP007470.1_1430936_1433413,NTHI477_RS06875,nitrate reductase catalytic subunit NapA
+95,NZ_CP007470.1_662694_663314,NTHI477_RS03175,superoxide dismutase [Mn]
+96,NZ_CP007470.1_876684_877310,NTHI477_RS04145,pyridoxamine 5'-phosphate oxidase
+97,NZ_CP007470.1_928687_929571,NTHI477_RS04405,UTP--glucose-1-phosphate uridylyltransferase GalU
+98,NZ_CP007470.1_1438553_1439566,NTHI477_RS06910,UDP-glucose 4-epimerase GalE
+99,NZ_CP007470.1_641336_642649,NTHI477_RS03065,xylose isomerase
+100,NZ_CP007470.1_590064_591029,NTHI477_RS02830,ferrochelatase
+101,NZ_CP007470.1_548211_549413,NTHI477_RS02610,acetate kinase
+102,NZ_CP007470.1_1056334_1058376,NTHI477_RS05060,"bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase"
+103,NZ_CP007470.1_1421737_1423965,NTHI477_RS06825,GTP diphosphokinase
+104,NZ_CP007470.1_932281_933894,NTHI477_RS04420,phosphoenolpyruvate carboxykinase (ATP)
+105,NZ_CP007470.1_542914_543768,NTHI477_RS02580,malate dehydrogenase
+106,NZ_CP007470.1_518054_520690,NTHI477_RS02490,phosphoenolpyruvate carboxylase
+107,NZ_CP007470.1_1083986_1085488,NTHI477_RS05185,citrate lyase subunit alpha
+108,NZ_CP007470.1_1085503_1086372,NTHI477_RS05190,citrate (pro-3S)-lyase subunit beta
+109,NZ_CP007470.1_504776_505963,NTHI477_RS02385,amino acid aminotransferase
+110,NZ_CP007470.1_906288_907943,NTHI477_RS04290,fumarate reductase (quinol) flavoprotein subunit
+111,NZ_CP007470.1_1460145_1461356,NTHI477_RS07035,IscS subfamily cysteine desulfurase
+112,NZ_CP007470.1_94465_95505,NTHI477_RS00415,alanine racemase
+113,NZ_CP007470.1_556194_557060,NTHI477_RS02645,succinate--CoA ligase subunit alpha
+114,NZ_CP007470.1_557066_558229,NTHI477_RS02650,ADP-forming succinate--CoA ligase subunit beta
+115,NZ_CP007470.1_1756702_1758069,NTHI477_RS08625,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+116,NZ_CP007470.1_199020_199670,NTHI477_RS00980,GTP cyclohydrolase I FolE
+117,NZ_CP007470.1_1285763_1286407,NTHI477_RS06160,GTP cyclohydrolase II
+118,NZ_CP007470.1_1009055_1010299,NTHI477_RS04835,diaminopimelate decarboxylase
+119,NZ_CP007470.1_788677_790209,NTHI477_RS03750,"L-2,4-diaminobutyrate decarboxylase"
+120,NZ_CP007470.1_1108055_1108690,NTHI477_RS05315,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+121,NZ_CP007470.1_1152980_1155424,NTHI477_RS05530,bifunctional aspartate kinase/homoserine dehydrogenase I
+122,NZ_CP007470.1_1694153_1695142,NTHI477_RS08305,aspartate--ammonia ligase
+123,NZ_CP007470.1_1668262_1669659,NTHI477_RS08155,aspartate ammonia-lyase
+124,NZ_CP007470.1_244724_246115,NTHI477_RS01285,class II fumarate hydratase
+125,NZ_CP007470.1_919723_920769,NTHI477_RS04365,galactose-1-phosphate uridylyltransferase
+126,NZ_CP007470.1_532998_535751,NTHI477_RS02545,TonB-dependent receptor
+127,NZ_CP007470.1_80387_81670,NTHI477_RS00345,3-phosphoshikimate 1-carboxyvinyltransferase
+128,NZ_CP007470.1_1205643_1206245,NTHI477_RS05760,uridine kinase
+129,NZ_CP007470.1_1257682_1258500,NTHI477_RS06020,S-formylglutathione hydrolase
+130,NZ_CP007470.1_1143519_1144895,NTHI477_RS05465,cysteine--tRNA ligase
+131,NZ_CP007470.1_1206278_1206856,NTHI477_RS05765,dCTP deaminase
+132,NZ_CP007470.1_671919_673553,NTHI477_RS03235,CTP synthase (glutamine hydrolyzing)
+133,NZ_CP007470.1_716929_717870,NTHI477_RS03425,phosphoserine phosphatase
+134,NZ_CP007470.1_386249_387262,NTHI477_RS01900,homoserine O-acetyltransferase
+135,NZ_CP007470.1_146585_147556,NTHI477_RS00685,thiamine-phosphate kinase
+136,NZ_CP007470.1_455133_457928,NTHI477_RS02180,2-oxoglutarate dehydrogenase E1 component
+137,NZ_CP007470.1_1148734_1149813,NTHI477_RS05495,methionine biosynthesis PLP-dependent protein
+138,NZ_CP007470.1_805622_806929,NTHI477_RS03825,phosphopyruvate hydratase
+139,NZ_CP007470.1_667122_668378,NTHI477_RS03210,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+140,NZ_CP007470.1_212459_213247,NTHI477_RS01070,tryptophan synthase subunit alpha
+141,NZ_CP007470.1_213259_214443,NTHI477_RS01075,tryptophan synthase subunit beta
+142,NZ_CP007470.1_605050_606204,NTHI477_RS02910,prephenate dehydratase
+143,NZ_CP007470.1_1147738_1148715,NTHI477_RS05490,2-hydroxyacid dehydrogenase
+144,NZ_CP007470.1_108969_109895,NTHI477_RS00505,2-hydroxyacid dehydrogenase
+145,NZ_CP007470.1_1537931_1538875,NTHI477_RS07530,acetyl-CoA carboxylase carboxyl transferase subunit alpha
+146,NZ_CP007470.1_766626_767969,NTHI477_RS03620,acetyl-CoA carboxylase biotin carboxylase subunit
+147,NZ_CP007470.1_389754_390638,NTHI477_RS01915,"acetyl-CoA carboxylase, carboxyltransferase subunit beta"
+148,NZ_CP007470.1_1258515_1259648,NTHI477_RS06025,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+149,NZ_CP007470.1_759008_759967,NTHI477_RS03575,6-phosphofructokinase
+150,NZ_CP007470.1_1254953_1255864,NTHI477_RS06010,N-acetylglucosamine kinase
+151,NZ_CP007470.1_529775_530749,NTHI477_RS02535,class 1 fructose-bisphosphatase
+152,NZ_CP007470.1_1784846_1785802,NTHI477_RS08760,class II fructose-bisphosphatase
+153,NZ_CP007470.1_1215680_1216456,NTHI477_RS05815,glucosamine-6-phosphate deaminase
+154,NZ_CP007470.1_1561540_1563369,NTHI477_RS07635,glutamine--fructose-6-phosphate transaminase (isomerizing)
+155,NZ_CP007470.1_92701_94347,NTHI477_RS00410,glucose-6-phosphate isomerase
+156,NZ_CP007470.1_10622_11527,NTHI477_RS00055,5-oxoprolinase/urea amidolyase family protein
+157,NZ_CP007470.1_1200183_1201343,NTHI477_RS05720,cystathionine beta-lyase
+158,NZ_CP007470.1_1148743_1149819,NTHI477_RS05495,methionine biosynthesis PLP-dependent protein
+159,NZ_CP007470.1_642904_644028,NTHI477_RS03070,MalY/PatB family protein
+160,NZ_CP007470.1_675786_676919,NTHI477_RS03250,cytochrome d ubiquinol oxidase subunit II
+161,NZ_CP007470.1_1688095_1689537,NTHI477_RS08275,glucose-6-phosphate dehydrogenase
+162,NZ_CP007470.1_1038455_1039459,NTHI477_RS04980,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+163,NZ_CP007470.1_1806096_1807610,NTHI477_RS08875,glycerol kinase GlpK
+164,NZ_CP007470.1_649431_650363,NTHI477_RS03095,cysteine synthase A
+165,NZ_CP007470.1_1789592_1791043,NTHI477_RS08800,aminoacyl-histidine dipeptidase
+166,NZ_CP007470.1_34089_35555,NTHI477_RS00170,leucyl aminopeptidase
+167,NZ_CP007470.1_957271_958446,NTHI477_RS04615,acetyl-CoA C-acetyltransferase
+168,NZ_CP007470.1_841218_841697,NTHI477_RS03995,type 3 dihydrofolate reductase
+169,NZ_CP007470.1_388445_389737,NTHI477_RS01910,bifunctional tetrahydrofolate synthase/dihydrofolate synthase
+170,NZ_CP007470.1_81673_82506,NTHI477_RS00350,formyltetrahydrofolate deformylase
+171,NZ_CP007470.1_853001_854263,NTHI477_RS04045,serine hydroxymethyltransferase
+172,NZ_CP007470.1_300680_301963,NTHI477_RS01505,glucose-1-phosphate adenylyltransferase
+173,NZ_CP007470.1_987904_989301,NTHI477_RS04765,phospho-sugar mutase
+174,NZ_CP007470.1_433247_433936,NTHI477_RS02080,orotidine-5'-phosphate decarboxylase
+175,NZ_CP007470.1_430153_430776,NTHI477_RS02060,uracil phosphoribosyltransferase
+176,NZ_CP007470.1_256764_258242,NTHI477_RS01350,anthranilate synthase component I
+177,NZ_CP007470.1_256146_256724,NTHI477_RS01345,aminodeoxychorismate/anthranilate synthase component II
+178,NZ_CP007470.1_1792592_1793329,NTHI477_RS08815,triose-phosphate isomerase
+179,NZ_CP007470.1_127237_128049,NTHI477_RS00600,phosphorylcholine kinase LicA
+180,NZ_CP007470.1_1803994_1805037,NTHI477_RS08865,glycerophosphodiester phosphodiesterase
+181,NZ_CP007470.1_494326_495270,NTHI477_RS02335,ribose-phosphate pyrophosphokinase
+182,NZ_CP007470.1_1634281_1635186,NTHI477_RS08020,ribokinase
+183,NZ_CP007470.1_1599001_1599648,NTHI477_RS07820,ribose-5-phosphate isomerase RpiA
+184,NZ_CP007470.1_1059715_1060710,NTHI477_RS05075,type I glyceraldehyde-3-phosphate dehydrogenase
+185,NZ_CP007470.1_637558_638148,NTHI477_RS03045,deoxyribose-phosphate aldolase
+186,NZ_CP007470.1_718234_720210,NTHI477_RS03430,transketolase
+187,NZ_CP007470.1_1657041_1658111,NTHI477_RS08105,class II fructose-bisphosphate aldolase
+188,NZ_CP007470.1_1603129_1604034,NTHI477_RS07845,ATP phosphoribosyltransferase
+189,NZ_CP007470.1_545453_546964,NTHI477_RS02595,amidophosphoribosyltransferase
+190,NZ_CP007470.1_256158_256724,NTHI477_RS01345,aminodeoxychorismate/anthranilate synthase component II
+191,NZ_CP007470.1_254656_255654,NTHI477_RS01335,anthranilate phosphoribosyltransferase
+192,NZ_CP007470.1_1308631_1309536,NTHI477_RS06240,bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA
+193,NZ_CP007470.1_1456382_1457971,NTHI477_RS07010,Fe-S protein assembly chaperone HscA
+194,NZ_CP007470.1_416975_418744,NTHI477_RS02020,molecular chaperone DnaK
+195,NZ_CP007470.1_1753985_1755352,NTHI477_RS08610,adenylosuccinate lyase
+196,NZ_CP007470.1_560717_561745,NTHI477_RS02665,branched-chain-amino-acid transaminase
+197,NZ_CP007470.1_920849_921988,NTHI477_RS04370,galactokinase
+198,NZ_CP007470.1_372953_373615,NTHI477_RS01845,acylneuraminate cytidylyltransferase
+199,NZ_CP007470.1_857508_859094,NTHI477_RS04060,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+200,NZ_CP007470.1_1309672_1311117,NTHI477_RS06245,IMP dehydrogenase
+201,NZ_CP007470.1_514317_515609,NTHI477_RS02475,adenylosuccinate synthase
+202,NZ_CP007470.1_610702_611616,NTHI477_RS02935,D-alanine--D-alanine ligase
+203,NZ_CP007470.1_786584_787864,NTHI477_RS03735,diaminobutyrate--2-oxoglutarate transaminase
+204,NZ_CP007470.1_1604133_1605413,NTHI477_RS07850,histidinol dehydrogenase
+205,NZ_CP007470.1_1521185_1522870,NTHI477_RS07450,long-chain-fatty-acid--CoA ligase FadD
+206,NZ_CP007470.1_954578_955228,NTHI477_RS04600,acetate CoA-transferase subunit alpha
+207,NZ_CP007470.1_955242_955901,NTHI477_RS04605,3-oxoacid CoA-transferase subunit B
+208,NZ_CP007470.1_799811_800605,NTHI477_RS03800,inositol-1-monophosphatase
+209,NZ_CP007470.1_994828_996663,NTHI477_RS04780,dihydroxy-acid dehydratase
+210,NZ_CP007470.1_754326_755843,NTHI477_RS03555,2-isopropylmalate synthase
+211,NZ_CP007470.1_1034298_1035134,NTHI477_RS04960,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
+212,NZ_CP007470.1_200926_201795,NTHI477_RS00995,methylenetetrahydrofolate reductase
+213,NZ_CP007470.1_1807694_1808158,NTHI477_RS08880,xanthine phosphoribosyltransferase
+214,NZ_CP007470.1_1789018_1789482,NTHI477_RS08795,xanthine phosphoribosyltransferase
+215,NZ_CP007470.1_1311245_1312807,NTHI477_RS06250,glutamine-hydrolyzing GMP synthase
+216,NZ_CP007470.1_1401294_1402106,NTHI477_RS06700,pyrroline-5-carboxylate reductase
+217,NZ_CP007470.1_1621805_1622305,NTHI477_RS07955,S-ribosylhomocysteine lyase
+218,NZ_CP007470.1_1695213_1695884,NTHI477_RS08310,phosphoglycolate phosphatase
+219,NZ_CP007470.1_108972_109901,NTHI477_RS00505,2-hydroxyacid dehydrogenase
+220,NZ_CP007470.1_1727468_1728469,NTHI477_RS08445,ornithine carbamoyltransferase
+221,NZ_CP007470.1_1247183_1247902,NTHI477_RS05975,peptidoglycan editing factor PgeF
+222,NZ_CP007470.1_718246_720246,NTHI477_RS03430,transketolase
+223,NZ_CP007470.1_1150709_1151980,NTHI477_RS05520,threonine synthase
+224,NZ_CP007470.1_1658237_1659388,NTHI477_RS08110,phosphoglycerate kinase
+225,NZ_CP007470.1_1599690_1600919,NTHI477_RS07825,phosphoglycerate dehydrogenase
+226,NZ_CP007470.1_969712_970395,NTHI477_RS04695,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase"
+227,NZ_CP007470.1_1684896_1686296,NTHI477_RS08260,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase
+228,NZ_CP007470.1_1695939_1696604,NTHI477_RS08315,ribulose-phosphate 3-epimerase
+229,NZ_CP007470.1_473043_473948,NTHI477_RS02250,KpsF/GutQ family sugar isomerase
+230,NZ_CP007470.1_1109605_1110504,NTHI477_RS05325,sugar kinase
+231,NZ_CP007470.1_214466_215218,NTHI477_RS01080,SDR family oxidoreductase
+232,NZ_CP007470.1_1108709_1109551,NTHI477_RS05320,SDR family oxidoreductase
+233,NZ_CP007470.1_1662025_1662588,NTHI477_RS08130,thymidine kinase
+234,NZ_CP007470.1_1028103_1029839,NTHI477_RS04925,L-fucose isomerase
+235,NZ_CP007470.1_922043_923029,NTHI477_RS04375,galactose-1-epimerase
+236,NZ_CP007470.1_639819_641267,NTHI477_RS03060,xylulokinase
+237,NZ_CP007470.1_206331_207209,NTHI477_RS01025,"(2E,6E)-farnesyl diphosphate synthase"
+238,NZ_CP007470.1_783530_784573,NTHI477_RS03715,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+239,NZ_CP007470.1_1271071_1272141,NTHI477_RS06085,chorismate synthase
+240,NZ_CP007470.1_331494_332603,NTHI477_RS01630,bifunctional chorismate mutase/prephenate dehydrogenase
+241,NZ_CP007470.1_578978_579928,NTHI477_RS02780,aminodeoxychorismate synthase component I
+242,NZ_CP007470.1_578364_578933,NTHI477_RS02775,anthranilate synthase component II
+243,NZ_CP007470.1_256752_258254,NTHI477_RS01350,anthranilate synthase component I
+244,NZ_CP007470.1_1378475_1379749,NTHI477_RS06580,hypothetical protein
+245,NZ_CP007470.1_378775_379461,NTHI477_RS01870,hydroxyacylglutathione hydrolase
+246,NZ_CP007470.1_1152035_1152958,NTHI477_RS05525,homoserine kinase
+247,NZ_CP007470.1_386252_387316,NTHI477_RS01900,homoserine O-acetyltransferase
+248,NZ_CP007470.1_1217027_1217866,NTHI477_RS05820,N-acetylneuraminate lyase
+249,NZ_CP007470.1_987901_989427,NTHI477_RS04765,phospho-sugar mutase
+250,NZ_CP007470.1_117896_118933,NTHI477_RS00550,3-deoxy-7-phosphoheptulonate synthase AroG
+251,NZ_CP007470.1_627379_628329,NTHI477_RS03000,transaldolase
+252,NZ_CP007470.1_1784822_1785811,NTHI477_RS08760,class II fructose-bisphosphatase
+253,NZ_CP007470.1_1365849_1366487,NTHI477_RS06495,orotate phosphoribosyltransferase
+254,NZ_CP007470.1_1373587_1374342,NTHI477_RS06555,uridine phosphorylase
+255,NZ_CP007470.1_315322_316167,NTHI477_RS01550,cytidine deaminase
+256,NZ_CP007470.1_1230588_1231301,NTHI477_RS05885,3-oxoacyl-ACP reductase FabG
+257,NZ_CP007470.1_808028_809194,NTHI477_RS03840,glutathionylspermidine synthase family protein
+258,NZ_CP007470.1_1793464_1793778,NTHI477_RS08820,thiosulfate sulfurtransferase GlpE
+259,NZ_CP007470.1_13592_14923,NTHI477_RS00070,argininosuccinate synthase
+260,NZ_CP007470.1_206391_207212,NTHI477_RS01025,"(2E,6E)-farnesyl diphosphate synthase"
+261,NZ_CP007470.1_1687285_1687980,NTHI477_RS08270,6-phosphogluconolactonase
+262,NZ_CP007470.1_1214365_1215507,NTHI477_RS05810,N-acetylglucosamine-6-phosphate deacetylase
+263,NZ_CP007470.1_185244_186575,NTHI477_RS00895,phosphoglucosamine mutase
+264,NZ_CP007470.1_1579821_1580744,NTHI477_RS07730,1-phosphofructokinase
+265,NZ_CP007470.1_957268_958443,NTHI477_RS04615,acetyl-CoA C-acetyltransferase
+266,NZ_CP007470.1_1219689_1220369,NTHI477_RS05835,N-acetylmannosamine-6-phosphate 2-epimerase
+267,NZ_CP007470.1_1589851_1590468,NTHI477_RS07780,dTMP kinase
+268,NZ_CP007470.1_836873_837721,NTHI477_RS03970,thymidylate synthase
+269,NZ_CP007470.1_1027094_1027840,NTHI477_RS04920,DeoR/GlpR family DNA-binding transcription regulator
+270,NZ_CP007470.1_1031810_1032436,NTHI477_RS04940,L-fuculose-phosphate aldolase
+271,NZ_CP007470.1_786575_787858,NTHI477_RS03735,diaminobutyrate--2-oxoglutarate transaminase
+272,NZ_CP007470.1_1763895_1765007,NTHI477_RS08665,aspartate-semialdehyde dehydrogenase
+273,NZ_CP007470.1_1345633_1346508,NTHI477_RS06400,4-hydroxy-tetrahydrodipicolinate synthase
+274,NZ_CP007470.1_884290_884847,NTHI477_RS04175,5-formyltetrahydrofolate cyclo-ligase
+275,NZ_CP007470.1_213256_214428,NTHI477_RS01075,tryptophan synthase subunit beta
+276,NZ_CP007470.1_1771085_1771816,NTHI477_RS08700,glycosyltransferase family 2 protein
+277,NZ_CP007470.1_1281367_1281879,NTHI477_RS06140,shikimate kinase AroK
+278,NZ_CP007470.1_1773282_1774085,NTHI477_RS08715,shikimate dehydrogenase
+279,NZ_CP007470.1_390860_392221,NTHI477_RS01920,DegQ family serine endoprotease
+280,NZ_CP007470.1_791381_792253,NTHI477_RS03760,outer membrane-stress sensor serine endopeptidase DegS
+281,NZ_CP007470.1_1796259_1797734,NTHI477_RS08840,ketol-acid reductoisomerase
+282,NZ_CP007470.1_1060937_1062721,NTHI477_RS05080,long-chain fatty acid--CoA ligase
+283,NZ_CP007470.1_1148734_1149837,NTHI477_RS05495,methionine biosynthesis PLP-dependent protein
+284,NZ_CP007470.1_1412347_1412751,NTHI477_RS06770,lactoylglutathione lyase
+285,NZ_CP007470.1_1218769_1219635,NTHI477_RS05830,N-acetylmannosamine kinase
+286,NZ_CP007470.1_1162770_1163897,NTHI477_RS05565,succinyl-diaminopimelate desuccinylase
+287,NZ_CP007470.1_979207_980028,NTHI477_RS04730,diaminopimelate epimerase
+288,NZ_CP007470.1_1762899_1763837,NTHI477_RS08660,alpha/beta hydrolase
+289,NZ_CP007470.1_870948_871967,NTHI477_RS04125,"dTDP-glucose 4,6-dehydratase"
+290,NZ_CP007470.1_615530_616840,NTHI477_RS02955,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+291,NZ_CP007470.1_619421_620881,NTHI477_RS02970,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+292,NZ_CP007470.1_1747061_1747981,NTHI477_RS08550,type I pantothenate kinase
+293,NZ_CP007470.1_1606703_1607785,NTHI477_RS07860,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB
+294,NZ_CP007470.1_1769266_1769733,NTHI477_RS08690,pantetheine-phosphate adenylyltransferase
+295,NZ_CP007470.1_184379_185203,NTHI477_RS00890,dihydropteroate synthase
+296,NZ_CP007470.1_1281938_1282999,NTHI477_RS06145,3-dehydroquinate synthase
+297,NZ_CP007470.1_768768_769214,NTHI477_RS09365,type II 3-dehydroquinate dehydratase
+298,NZ_CP007470.1_200106_200831,NTHI477_RS00990,dethiobiotin synthase
+299,NZ_CP007470.1_114989_115603,NTHI477_RS00535,dethiobiotin synthase
+300,NZ_CP007470.1_1361591_1362589,NTHI477_RS06470,UDP-N-acetylmuramate dehydrogenase
+301,NZ_CP007470.1_611703_613097,NTHI477_RS02940,UDP-N-acetylmuramate--L-alanine ligase
+302,NZ_CP007470.1_112422_113549,NTHI477_RS00520,8-amino-7-oxononanoate synthase
+303,NZ_CP007470.1_1550262_1550939,NTHI477_RS07585,thiamine phosphate synthase
+304,NZ_CP007470.1_111133_112392,NTHI477_RS00515,adenosylmethionine--8-amino-7-oxononanoate transaminase
+305,NZ_CP007470.1_1029891_1031312,NTHI477_RS04930,L-fuculokinase
+306,NZ_CP007470.1_1605536_1606573,NTHI477_RS07855,histidinol-phosphate transaminase
+307,NZ_CP007470.1_582283_583350,NTHI477_RS02800,histidinol-phosphate transaminase
+308,NZ_CP007470.1_108058_108906,NTHI477_RS00500,3-deoxy-8-phosphooctulonate synthase
+309,NZ_CP007470.1_783533_784702,NTHI477_RS03715,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+310,NZ_CP007470.1_414294_415532,NTHI477_RS02010,glutamate-5-semialdehyde dehydrogenase
+311,NZ_CP007470.1_473967_474506,NTHI477_RS02255,HAD family hydrolase
+312,NZ_CP007470.1_1119211_1119966,NTHI477_RS05370,3-deoxy-manno-octulosonate cytidylyltransferase
+313,NZ_CP007470.1_890631_892217,NTHI477_RS04205,ABC transporter substrate-binding protein
+314,NZ_CP007470.1_522318_523883,NTHI477_RS02500,ABC transporter substrate-binding protein
+315,NZ_CP007470.1_792371_793471,NTHI477_RS03765,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+316,NZ_CP007470.1_1549517_1550245,NTHI477_RS07580,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+317,NZ_CP007470.1_1127590_1128069,NTHI477_RS05400,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+318,NZ_CP007470.1_1358795_1359148,NTHI477_RS06455,dihydroneopterin aldolase
+319,NZ_CP007470.1_253198_254583,NTHI477_RS01330,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF
+320,NZ_CP007470.1_1275052_1276083,NTHI477_RS06105,"selenide, water dikinase SelD"
+321,NZ_CP007470.1_751485_752879,NTHI477_RS03545,3-isopropylmalate dehydratase large subunit
+322,NZ_CP007470.1_750849_751445,NTHI477_RS03540,3-isopropylmalate dehydratase small subunit
+323,NZ_CP007470.1_751479_752873,NTHI477_RS03545,3-isopropylmalate dehydratase large subunit
+324,NZ_CP007470.1_1266340_1267680,NTHI477_RS06075,o-succinylbenzoate--CoA ligase
+325,NZ_CP007470.1_769311_770252,NTHI477_RS03635,o-succinylbenzoate synthase
+326,NZ_CP007470.1_1610008_1610625,NTHI477_RS07880,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE
+327,NZ_CP007470.1_1394893_1395408,NTHI477_RS06665,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD"
+328,NZ_CP007470.1_856123_857409,NTHI477_RS04055,phosphoribosylamine--glycine ligase
+329,NZ_CP007470.1_770433_771287,NTHI477_RS03640,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+330,NZ_CP007470.1_581087_582163,NTHI477_RS02795,3-phosphoserine/phosphohydroxythreonine transaminase
+331,NZ_CP007470.1_148705_149514,NTHI477_RS00700,4-hydroxy-tetrahydrodipicolinate reductase
+332,NZ_CP007470.1_215401_216429,NTHI477_RS01085,phosphoribosylformylglycinamidine cyclo-ligase
+333,NZ_CP007470.1_216493_217116,NTHI477_RS01090,phosphoribosylglycinamide formyltransferase
+334,NZ_CP007470.1_515678_516499,NTHI477_RS02480,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+335,NZ_CP007470.1_38032_40290,NTHI477_RS00185,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+336,NZ_CP007470.1_1548658_1549440,NTHI477_RS07575,hydroxyethylthiazole kinase
+337,NZ_CP007470.1_145607_146068,NTHI477_RS00675,"6,7-dimethyl-8-ribityllumazine synthase"
+338,NZ_CP007470.1_973951_977841,NTHI477_RS04720,phosphoribosylformylglycinamidine synthase
+339,NZ_CP007470.1_999337_1000047,NTHI477_RS04800,"UDP-2,3-diacylglucosamine diphosphatase"
+340,NZ_CP007470.1_1609220_1609987,NTHI477_RS07875,imidazole glycerol phosphate synthase subunit HisF
+341,NZ_CP007470.1_618058_619401,NTHI477_RS02965,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+342,NZ_CP007470.1_606334_607248,NTHI477_RS02915,UDP-3-O-acyl-N-acetylglucosamine deacetylase
+343,NZ_CP007470.1_15082_15951,NTHI477_RS00075,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+344,NZ_CP007470.1_690104_691210,NTHI477_RS03310,lipid-A-disaccharide synthase
+345,NZ_CP007470.1_1608501_1609235,NTHI477_RS07870,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+346,NZ_CP007470.1_1120040_1121035,NTHI477_RS05375,tetraacyldisaccharide 4'-kinase
+347,NZ_CP007470.1_1769733_1771013,NTHI477_RS08695,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase
+348,NZ_CP007470.1_613256_614308,NTHI477_RS02945,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+349,NZ_CP007470.1_1439742_1440440,NTHI477_RS06915,"alpha-2,3-sialyltransferase"
+350,NZ_CP007470.1_873908_874594,NTHI477_RS04135,"alpha-2,3-sialyltransferase"
+351,NZ_CP007470.1_638815_639735,NTHI477_RS03055,ADP-glyceromanno-heptose 6-epimerase
+352,NZ_CP007470.1_1182165_1182788,NTHI477_RS05630,glutathione S-transferase family protein
+353,NZ_CP007470.1_1590515_1591288,NTHI477_RS07785,endolytic transglycosylase MltG
+354,NZ_CP007470.1_1115323_1116501,NTHI477_RS05355,mannonate dehydratase
+355,NZ_CP007470.1_1284972_1285694,NTHI477_RS06155,phosphatase PAP2 family protein
+356,NZ_CP007470.1_616997_618034,NTHI477_RS02960,phospho-N-acetylmuramoyl-pentapeptide-transferase
+357,NZ_CP007470.1_1787949_1788602,NTHI477_RS08785,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+358,NZ_CP007470.1_493452_494285,NTHI477_RS02330,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+359,NZ_CP007470.1_204427_206286,NTHI477_RS01020,1-deoxy-D-xylulose-5-phosphate synthase
+360,NZ_CP007470.1_1787467_1787940,NTHI477_RS08780,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+361,NZ_CP007470.1_139655_141082,NTHI477_RS00645,bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE
+362,NZ_CP007470.1_571646_572221,NTHI477_RS02730,D-sedoheptulose 7-phosphate isomerase
+363,NZ_CP007470.1_1018455_1019006,NTHI477_RS04880,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase"
+364,NZ_CP007470.1_934725_935891,NTHI477_RS04430,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+365,NZ_CP007470.1_682304_683668,NTHI477_RS03270,ammonia-forming nitrite reductase cytochrome c552 subunit
+366,NZ_CP007470.1_725509_726444,NTHI477_RS03460,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+367,NZ_CP007470.1_820326_821042,NTHI477_RS03895,polyprenyl diphosphate synthase
+368,NZ_CP007470.1_865069_866034,NTHI477_RS04090,octaprenyl diphosphate synthase
+369,NZ_CP007470.1_963383_964015,NTHI477_RS04650,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+370,NZ_CP007470.1_503575_504531,NTHI477_RS02380,5-(carboxyamino)imidazole ribonucleotide synthase
+371,NZ_CP007470.1_502984_503475,NTHI477_RS02375,5-(carboxyamino)imidazole ribonucleotide mutase
+372,NZ_CP007470.1_1059718_1060734,NTHI477_RS05075,type I glyceraldehyde-3-phosphate dehydrogenase
+373,NZ_CP007470.1_915794_917311,NTHI477_RS04350,galactose/methyl galactoside ABC transporter ATP-binding protein MglA
+374,NZ_CP007470.1_1630811_1632289,NTHI477_RS08005,ribose ABC transporter ATP-binding protein RbsA
+375,NZ_CP007470.1_1354237_1355931,NTHI477_RS06445,ShlB/FhaC/HecB family hemolysin secretion/activation protein
+376,NZ_CP007470.1_1121111_1122877,NTHI477_RS05380,lipid A ABC transporter ATP-binding protein/permease MsbA
+377,NZ_CP007470.1_594893_596536,NTHI477_RS02850,cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+378,NZ_CP007470.1_1446874_1447653,NTHI477_RS06955,metal ABC transporter substrate-binding protein
+379,NZ_CP007470.1_182360_184228,NTHI477_RS00885,ATP-dependent zinc metalloprotease FtsH
+380,NZ_CP007470.1_1385461_1387602,NTHI477_RS06605,heavy metal translocating P-type ATPase
+381,NZ_CP007470.1_1446880_1447695,NTHI477_RS06955,metal ABC transporter substrate-binding protein
+382,NZ_CP007470.1_1196755_1197753,NTHI477_RS05705,zinc ABC transporter substrate-binding protein ZnuA
+383,NZ_CP007470.1_1539839_1540513,NTHI477_RS07540,zinc ABC transporter ATP-binding protein ZnuC
+384,NZ_CP007470.1_573142_574461,NTHI477_RS02745,arginine ABC transporter permease ArtQ
+385,NZ_CP007470.1_572357_573085,NTHI477_RS02735,arginine ABC transporter ATP-binding protein ArtP
+386,NZ_CP007470.1_1626106_1627095,NTHI477_RS07985,extracellular solute-binding protein
+387,NZ_CP007470.1_1385464_1387605,NTHI477_RS06605,heavy metal translocating P-type ATPase
+388,NZ_CP007470.1_49697_50374,NTHI477_RS00240,molybdenum ABC transporter ATP-binding protein ModC
+389,NZ_CP007470.1_508457_509137,NTHI477_RS02410,DUF4198 domain-containing protein
+390,NZ_CP007470.1_567802_569403,NTHI477_RS02715,dipeptide ABC transporter ATP-binding protein
+391,NZ_CP007470.1_1442590_1443531,NTHI477_RS06930,ABC transporter substrate-binding protein
+392,NZ_CP007470.1_722208_723605,NTHI477_RS03445,thiamine/thiamine pyrophosphate ABC transporter permease
+393,NZ_CP007470.1_1630772_1632289,NTHI477_RS08005,ribose ABC transporter ATP-binding protein RbsA
+394,NZ_CP007470.1_906294_907943,NTHI477_RS04290,fumarate reductase (quinol) flavoprotein subunit
+395,NZ_CP007470.1_56192_57559,NTHI477_RS00270,electron transport complex subunit RsxC
+396,NZ_CP007470.1_1159470_1160987,NTHI477_RS05550,iron ABC transporter permease
+397,NZ_CP007470.1_430949_432118,NTHI477_RS02065,NCS2 family protein
+398,NZ_CP007470.1_1204077_1205402,NTHI477_RS05755,NCS2 family permease
+399,NZ_CP007470.1_119746_120978,NTHI477_RS00560,serine/threonine transporter SstT
+400,NZ_CP007470.1_1228590_1229783,NTHI477_RS05875,anaerobic C4-dicarboxylate transporter
+401,NZ_CP007470.1_1110536_1111753,NTHI477_RS05330,TRAP transporter large permease
+402,NZ_CP007470.1_644057_645451,NTHI477_RS03075,Na+/H+ antiporter NhaC
+403,NZ_CP007470.1_772601_774160,NTHI477_RS03660,murein biosynthesis integral membrane protein MurJ
+404,NZ_CP007470.1_985162_986193,NTHI477_RS04750,anaerobic C4-dicarboxylate transporter
+405,NZ_CP007470.1_1802412_1803758,NTHI477_RS08860,glycerol-3-phosphate transporter
+406,NZ_CP007470.1_1550887_1552227,NTHI477_RS07590,MFS transporter
+407,NZ_CP007470.1_497456_498826,NTHI477_RS02350,sodium-coupled multidrug efflux MATE transporter HmrM
+408,NZ_CP007470.1_1080997_1082403,NTHI477_RS05175,anion permease
+409,NZ_CP007470.1_997584_999071,NTHI477_RS04790,sodium-dependent transporter
+410,NZ_CP007470.1_862846_864189,NTHI477_RS04080,sodium:alanine symporter family protein
+411,NZ_CP007470.1_1256190_1257461,NTHI477_RS06015,sodium:alanine symporter family protein
+412,NZ_CP007470.1_1228578_1229786,NTHI477_RS05875,anaerobic C4-dicarboxylate transporter
+413,NZ_CP007470.1_312785_314281,NTHI477_RS01540,sodium/proline symporter PutP
+414,NZ_CP007470.1_32058_34031,NTHI477_RS00165,BCCT family transporter
+415,NZ_CP007470.1_28345_28791,NTHI477_RS00140,PTS glucose transporter subunit IIA
+416,NZ_CP007470.1_450144_452363,NTHI477_RS02165,class 1a ribonucleoside-diphosphate reductase subunit alpha
+417,NZ_CP007470.1_452548_453675,NTHI477_RS02170,class Ia ribonucleoside-diphosphate reductase subunit beta
+418,NZ_CP007470.1_1315784_1317070,NTHI477_RS06270,branched-chain amino acid transport system II carrier protein
+419,NZ_CP007470.1_592040_592984,NTHI477_RS02840,thioredoxin-disulfide reductase
+420,NZ_CP007470.1_1452524_1453624,NTHI477_RS06985,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+421,NZ_CP007470.1_1035293_1036642,NTHI477_RS04965,DASS family sodium-coupled anion symporter
+422,NZ_CP007470.1_133115_134239,NTHI477_RS00625,sodium/glutamate symporter
+423,NZ_CP007470.1_843070_844572,NTHI477_RS04005,DHA2 family efflux MFS transporter permease subunit
+424,NZ_CP007470.1_1413960_1415180,NTHI477_RS06780,Na+/H+ antiporter family protein
+425,NZ_CP007470.1_1384003_1385247,NTHI477_RS06600,HAAAP family serine/threonine permease
+426,NZ_CP007470.1_1381231_1382424,NTHI477_RS06590,tryptophan permease
+427,NZ_CP007470.1_1610928_1612118,NTHI477_RS07885,aromatic amino acid transporter
+428,NZ_CP007470.1_1724964_1726412,NTHI477_RS08435,YfcC family protein
+429,NZ_CP007470.1_83423_84916,NTHI477_RS00360,Na+/H+ antiporter NhaC family protein
+430,NZ_CP007470.1_195576_196475,NTHI477_RS09405,lysine exporter LysO family protein
+431,NZ_CP007470.1_764728_766164,NTHI477_RS03610,sodium/pantothenate symporter
+432,NZ_CP007470.1_766656_768008,NTHI477_RS03620,acetyl-CoA carboxylase biotin carboxylase subunit
+433,NZ_CP007470.1_6857_7642,NTHI477_RS00040,SDR family oxidoreductase
+434,NZ_CP007470.1_176289_176819,NTHI477_RS00835,bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase
+435,NZ_CP007470.1_1230585_1231310,NTHI477_RS05885,3-oxoacyl-ACP reductase FabG
+436,NZ_CP007470.1_1232768_1233715,NTHI477_RS05895,beta-ketoacyl-ACP synthase III
+437,NZ_CP007470.1_130471_131682,NTHI477_RS00610,beta-ketoacyl-ACP synthase I
+438,NZ_CP007470.1_1231336_1232265,NTHI477_RS05890,ACP S-malonyltransferase
+439,NZ_CP007470.1_845653_848676,NTHI477_RS04015,efflux RND transporter permease subunit
+440,NZ_CP007470.1_1080991_1082379,NTHI477_RS05175,anion permease
+441,NZ_CP007470.1_1208065_1209231,NTHI477_RS05775,sugar transporter
+442,NZ_CP007470.1_892502_893806,NTHI477_RS04210,MDR family MFS transporter
+443,NZ_CP007470.1_1805410_1806060,NTHI477_RS08870,uncharacterized gene
+444,NZ_CP007470.1_569649_570620,NTHI477_RS02720,peptide ABC transporter ATP-binding protein
+445,NZ_CP007470.1_1161001_1161840,NTHI477_RS05555,heme ABC transporter ATP-binding protein FbpC
+446,NZ_CP007470.1_1253663_1254412,NTHI477_RS06005,formate transporter FocA
+447,NZ_CP007470.1_1578161_1579810,NTHI477_RS07725,fructose-specific PTS transporter subunit EIIC
+448,NZ_CP007470.1_26192_28219,NTHI477_RS00135,phosphoenolpyruvate-protein phosphotransferase PtsI
+449,NZ_CP007470.1_906384_907946,NTHI477_RS04290,fumarate reductase (quinol) flavoprotein subunit
+450,NZ_CP007470.1_1802412_1803755,NTHI477_RS08860,glycerol-3-phosphate transporter
+451,NZ_CP007470.1_1256121_1257467,NTHI477_RS06015,sodium:alanine symporter family protein
+452,NZ_CP007470.1_1273206_1273928,NTHI477_RS06095,TSUP family transporter
+453,NZ_CP007470.1_1742469_1743842,NTHI477_RS08520,Trk system potassium transporter TrkA
+454,NZ_CP007470.1_1559407_1560945,NTHI477_RS07625,Na(+)/H(+) antiporter NhaB
+455,NZ_CP007470.1_1841166_1842527,NTHI477_RS09035,TrkH family potassium uptake protein
+456,NZ_CP007470.1_1314403_1315542,NTHI477_RS06265,Na+/H+ antiporter NhaA
+457,NZ_CP007470.1_830511_832133,NTHI477_RS03940,monovalent cation:proton antiporter-2 (CPA2) family protein
+458,NZ_CP007470.1_1243201_1244415,NTHI477_RS05955,NADH:ubiquinone reductase (Na(+)-transporting) subunit F
+459,NZ_CP007470.1_497468_498826,NTHI477_RS02350,sodium-coupled multidrug efflux MATE transporter HmrM
+460,NZ_CP007470.1_845593_848670,NTHI477_RS04015,efflux RND transporter permease subunit
+461,NZ_CP007470.1_650543_651259,NTHI477_RS03100,sulfate transporter CysZ
+462,NZ_CP007470.1_1096123_1097721,NTHI477_RS05250,putative transporter
+463,NZ_CP007470.1_1381303_1382448,NTHI477_RS06590,tryptophan permease
+464,NZ_CP007470.1_997605_999101,NTHI477_RS04790,sodium-dependent transporter
+465,NZ_CP007470.1_955910_957241,NTHI477_RS04610,TIGR00366 family protein
+466,NZ_CP007470.1_1800488_1802074,NTHI477_RS08855,anaerobic glycerol-3-phosphate dehydrogenase subunit A
+467,NZ_CP007470.1_1799152_1800438,NTHI477_RS08850,glycerol-3-phosphate dehydrogenase subunit GlpB
+468,NZ_CP007470.1_1797857_1799053,NTHI477_RS08845,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpC
+469,NZ_CP007470.1_1142528_1143334,NTHI477_RS05460,acyl-CoA thioesterase II
+470,NZ_CP007470.1_720376_721374,NTHI477_RS03435,biotin synthase BioB
+471,NZ_CP007470.1_1662636_1663643,NTHI477_RS08135,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+472,NZ_CP007470.1_821063_821923,NTHI477_RS03900,phosphatidate cytidylyltransferase
+473,NZ_CP007470.1_1557132_1558496,NTHI477_RS07615,CDP-diacylglycerol--serine O-phosphatidyltransferase
+474,NZ_CP007470.1_1202204_1202758,NTHI477_RS05730,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+475,NZ_CP007470.1_147568_148056,NTHI477_RS00690,phosphatidylglycerophosphatase A
+476,NZ_CP007470.1_1234789_1235634,NTHI477_RS05910,archaetidylserine decarboxylase
+477,NZ_CP007470.1_296451_298859,NTHI477_RS01495,glycogen/starch/alpha-glucan phosphorylase
+478,NZ_CP007470.1_1241944_1242564,NTHI477_RS05945,NADH:ubiquinone reductase (Na(+)-transporting) subunit D
+479,NZ_CP007470.1_53035_53646,NTHI477_RS00255,electron transport complex subunit E
+480,NZ_CP007470.1_702479_704881,NTHI477_RS03360,molybdopterin-dependent oxidoreductase
+481,NZ_CP007470.1_983564_984895,NTHI477_RS04745,NAD(P)/FAD-dependent oxidoreductase
+482,NZ_CP007470.1_1423983_1424336,NTHI477_RS06830,diacylglycerol kinase
+483,NZ_CP007470.1_1000133_1000846,NTHI477_RS04805,1-acylglycerol-3-phosphate O-acyltransferase
+484,NZ_CP007470.1_495349_496524,NTHI477_RS02340,tyrosine--tRNA ligase
+485,NZ_CP007470.1_925772_928393,NTHI477_RS04395,alanine--tRNA ligase
+486,NZ_CP007470.1_87719_89449,NTHI477_RS00375,arginine--tRNA ligase
+487,NZ_CP007470.1_143980_145380,NTHI477_RS00670,asparagine--tRNA ligase
+488,NZ_CP007470.1_1143510_1144886,NTHI477_RS05465,cysteine--tRNA ligase
+489,NZ_CP007470.1_308972_310618,NTHI477_RS01530,glutamine--tRNA ligase
+490,NZ_CP007470.1_811235_812140,NTHI477_RS03850,glycine--tRNA ligase subunit alpha
+491,NZ_CP007470.1_813458_815623,NTHI477_RS03870,glycine--tRNA ligase subunit beta
+492,NZ_CP007470.1_1453640_1454863,NTHI477_RS06990,histidine--tRNA ligase
+493,NZ_CP007470.1_775186_777999,NTHI477_RS03670,isoleucine--tRNA ligase
+494,NZ_CP007470.1_249933_252257,NTHI477_RS01320,valine--tRNA ligase
+495,NZ_CP007470.1_817498_820077,NTHI477_RS03890,leucine--tRNA ligase
+496,NZ_CP007470.1_375707_377752,NTHI477_RS01860,methionine--tRNA ligase
+497,NZ_CP007470.1_150695_151681,NTHI477_RS00715,phenylalanine--tRNA ligase subunit alpha
+498,NZ_CP007470.1_151718_154102,NTHI477_RS00720,phenylalanine--tRNA ligase subunit beta
+499,NZ_CP007470.1_1004849_1006543,NTHI477_RS04820,proline--tRNA ligase
+500,NZ_CP007470.1_1180541_1181824,NTHI477_RS05625,serine--tRNA ligase
+501,NZ_CP007470.1_286641_288566,NTHI477_RS01465,threonine--tRNA ligase
+502,NZ_CP007470.1_1752221_1753216,NTHI477_RS08600,tryptophan--tRNA ligase
+503,NZ_CP007470.1_249960_252821,NTHI477_RS01320,valine--tRNA ligase
+504,NZ_CP007470.1_1331723_1332853,NTHI477_RS06350,tRNA guanosine(34) transglycosylase Tgt
+505,NZ_CP007470.1_1385470_1387632,NTHI477_RS06605,heavy metal translocating P-type ATPase
+506,NZ_CP007470.1_1060928_1062715,NTHI477_RS05080,long-chain fatty acid--CoA ligase
+507,NZ_CP007470.1_1527212_1527787,NTHI477_RS07470,aminoacyl-tRNA hydrolase
+508,NZ_CP007470.1_437698_438342,NTHI477_RS02105,(d)CMP kinase
+509,NZ_CP007470.1_1086712_1087680,NTHI477_RS05200,[citrate (pro-3S)-lyase] ligase
+510,NZ_CP007470.1_826400_827419,NTHI477_RS03920,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+511,NZ_CP007470.1_689252_690037,NTHI477_RS03305,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+512,NZ_CP007470.1_1408272_1410035,NTHI477_RS06745,aspartate--tRNA ligase
+513,NZ_CP007470.1_1367537_1368970,NTHI477_RS06510,glutamate--tRNA ligase
+514,NZ_CP007470.1_981124_983469,NTHI477_RS04740,glycerol-3-phosphate 1-O-acyltransferase PlsB
+515,NZ_CP007470.1_1359231_1359809,NTHI477_RS06460,glycerol-3-phosphate 1-O-acyltransferase PlsY
+516,NZ_CP007470.1_1088995_1089603,NTHI477_RS05210,lipoyl(octanoyl) transferase LipB
+517,NZ_CP007470.1_22931_23893,NTHI477_RS00105,UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase
+518,NZ_CP007470.1_632208_633149,NTHI477_RS03020,ABC transporter ATP-binding protein
+519,NZ_CP007470.1_302151_303956,NTHI477_RS01510,glycogen debranching protein GlgX
+520,NZ_CP007470.1_306320_308143,NTHI477_RS01520,4-alpha-glucanotransferase
+521,NZ_CP007470.1_126356_127231,NTHI477_RS00595,choline transport protein LicB
+522,NZ_CP007470.1_1096123_1097553,NTHI477_RS05250,putative transporter
+523,NZ_CP007470.1_674209_675726,NTHI477_RS03245,cytochrome ubiquinol oxidase subunit I
+524,NZ_CP007470.1_1637579_1638463,NTHI477_RS08040,"1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+525,NZ_CP007470.1_243988_244593,NTHI477_RS01280,chalcone isomerase family protein
+526,NZ_CP007470.1_242043_243059,NTHI477_RS01270,quinone-dependent dihydroorotate dehydrogenase
+527,NZ_CP007470.1_906294_907946,NTHI477_RS04290,fumarate reductase (quinol) flavoprotein subunit
+528,NZ_CP007470.1_304088_306268,NTHI477_RS01515,"1,4-alpha-glucan branching protein GlgB"
+529,NZ_CP007470.1_299142_300569,NTHI477_RS01500,glycogen synthase GlgA
+530,NZ_CP007470.1_541312_542811,NTHI477_RS02575,lysine--tRNA ligase
+531,NZ_CP007470.1_1570431_1573022,NTHI477_RS07690,penicillin-binding protein 1A
+532,NZ_CP007470.1_1093232_1095076,NTHI477_RS05235,penicillin-binding protein 2
+533,NZ_CP007470.1_620975_622597,NTHI477_RS02975,penicillin-binding transpeptidase domain-containing protein
+534,NZ_CP007470.1_16301_17974,NTHI477_RS00080,penicillin-binding protein 1B
+535,NZ_CP007470.1_715177_716121,NTHI477_RS03415,magnesium/cobalt transporter CorA
+536,NZ_CP007470.1_1396057_1396914,NTHI477_RS06670,CNNM family magnesium/cobalt transport protein CorC
+537,NZ_CP007470.1_1824913_1826268,NTHI477_RS08955,L-seryl-tRNA(Sec) selenium transferase
+538,NZ_CP007470.1_294634_296166,NTHI477_RS01490,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+539,NZ_CP007470.1_1082408_1083769,NTHI477_RS05180,triphosphoribosyl-dephospho-CoA synthase CitG
+540,NZ_CP007470.1_845635_848673,NTHI477_RS04015,efflux RND transporter permease subunit
+541,NZ_CP007470.1_843082_844581,NTHI477_RS04005,DHA2 family efflux MFS transporter permease subunit
+542,NZ_CP007470.1_425825_427210,NTHI477_RS02045,dihydrolipoyl dehydrogenase
+543,NZ_CP007470.1_1376804_1378456,NTHI477_RS06570,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+544,NZ_CP007470.1_1375948_1376688,NTHI477_RS06565,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+545,NZ_CP007470.1_1630378_1630794,NTHI477_RS08000,D-ribose pyranase
+546,NZ_CP007470.1_1221773_1223620,NTHI477_RS05845,sialic acid TRAP transporter substrate-binding protein SiaT
+547,NZ_CP007470.1_1213062_1214150,NTHI477_RS05805,porin
+548,NZ_CP007470.1_1559407_1560927,NTHI477_RS07625,Na(+)/H(+) antiporter NhaB
+549,NZ_CP007470.1_83432_84931,NTHI477_RS00360,Na+/H+ antiporter NhaC family protein
+550,NZ_CP007470.1_1256214_1257488,NTHI477_RS06015,sodium:alanine symporter family protein
+551,NZ_CP007470.1_133118_134287,NTHI477_RS00625,sodium/glutamate symporter
+552,NZ_CP007470.1_128313_130310,NTHI477_RS00605,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC
+553,NZ_CP007470.1_214469_215200,NTHI477_RS01080,SDR family oxidoreductase
+554,NZ_CP007470.1_1759137_1761473,NTHI477_RS08650,trimethylamine-N-oxide reductase TorA
+555,NZ_CP007470.1_704892_705254,NTHI477_RS03365,uncharacterized gene
+556,NZ_CP007470.1_328208_329401,NTHI477_RS01610,cysteine desulfurase
+557,NZ_CP007470.1_1031795_1032430,NTHI477_RS04940,L-fuculose-phosphate aldolase
+558,NZ_CP007470.1_1140244_1142364,NTHI477_RS05455,anaerobic ribonucleoside-triphosphate reductase
+559,NZ_CP007470.1_1612786_1614162,NTHI477_RS07895,F0F1 ATP synthase subunit beta

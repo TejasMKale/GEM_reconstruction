@@ -1,0 +1,573 @@
+,Joined,Locus tag,Name
+0,NC_22356.1_1736372_1736899,HIFGL_RS08325,inorganic diphosphatase
+1,NC_22356.1_1265485_1267194,HIFGL_RS06105,acetolactate synthase 3 large subunit
+2,NC_22356.1_1265000_1265473,HIFGL_RS06100,acetolactate synthase small subunit
+3,NC_22356.1_558145_559668,HIFGL_RS02775,catalase
+4,NC_22356.1_942655_945264,HIFGL_RS04620,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+5,NC_22356.1_588616_589668,HIFGL_RS02925,beta-N-acetylhexosaminidase
+6,NC_22356.1_1580700_1582991,HIFGL_RS07605,glycoside hydrolase family 31 protein
+7,NC_22356.1_999258_999917,HIFGL_RS04835,lipooligosaccharide biosynthesis galactosyltransferase LsgF
+8,NC_22356.1_1293218_1293823,HIFGL_RS06230,riboflavin synthase
+9,NC_22356.1_146521_148050,HIFGL_RS00705,F0F1 ATP synthase subunit alpha
+10,NC_22356.1_144237_145604,HIFGL_RS00695,F0F1 ATP synthase subunit beta
+11,NC_22356.1_145627_146493,HIFGL_RS00700,F0F1 ATP synthase subunit gamma
+12,NC_22356.1_148066_148596,HIFGL_RS00710,F0F1 ATP synthase subunit delta
+13,NC_22356.1_22266_25082,HIFGL_RS00120,excinuclease ABC subunit UvrA
+14,NC_22356.1_1142487_1143254,HIFGL_RS05510,phosphate ABC transporter ATP-binding protein PstB
+15,NC_22356.1_1002628_1003680,HIFGL_RS04855,molybdenum ABC transporter ATP-binding protein ModC
+16,NC_22356.1_1497997_1499625,HIFGL_RS07195,cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+17,NC_22356.1_302505_303971,HIFGL_RS01500,thiol reductant ABC exporter subunit CydC
+18,NC_22356.1_1496141_1497895,HIFGL_RS07190,cysteine/glutathione ABC transporter permease/ATP-binding protein CydD
+19,NC_22356.1_300809_302293,HIFGL_RS01495,ABC transporter ATP-binding protein/permease
+20,NC_22356.1_1476737_1477765,HIFGL_RS07095,heme ABC transporter ATP-binding protein FbpC
+21,NC_22356.1_1232548_1233684,HIFGL_RS05955,spermidine/putrescine ABC transporter ATP-binding protein PotA
+22,NC_22356.1_1738623_1739570,HIFGL_RS08335,ferric ABC transporter ATP-binding protein
+23,NC_22356.1_720750_722576,HIFGL_RS03540,ABC transporter ATP-binding protein
+24,NC_22356.1_1563822_1565351,HIFGL_RS07510,ABC transporter ATP-binding protein/permease
+25,NC_22356.1_779471_780976,HIFGL_RS03815,D-xylose ABC transporter ATP-binding protein
+26,NC_22356.1_356503_357981,HIFGL_RS01750,ribose ABC transporter ATP-binding protein RbsA
+27,NC_22356.1_499718_501223,HIFGL_RS02495,galactose/methyl galactoside ABC transporter ATP-binding protein MglA
+28,NC_22356.1_1589763_1591337,HIFGL_RS07640,lipid A ABC transporter ATP-binding protein/permease MsbA
+29,NC_22356.1_1464951_1465898,HIFGL_RS07045,peptide ABC transporter ATP-binding protein
+30,NC_22356.1_790748_791629,HIFGL_RS03865,murein tripeptide/oligopeptide ABC transporter ATP binding protein OppF
+31,NC_22356.1_1466126_1466914,HIFGL_RS07050,dipeptide ABC transporter ATP-binding protein
+32,NC_22356.1_756483_757271,HIFGL_RS03700,phospholipid ABC transporter ATP-binding protein MlaF
+33,NC_22356.1_791758_792699,HIFGL_RS03870,ABC transporter ATP-binding protein
+34,NC_22356.1_750117_750863,HIFGL_RS03655,amino acid ABC transporter ATP-binding protein
+35,NC_22356.1_1001058_1001783,HIFGL_RS04845,molybdate ABC transporter substrate-binding protein
+36,NC_22356.1_184744_186144,HIFGL_RS00880,TrkH family potassium uptake protein
+37,NC_22356.1_1462459_1463187,HIFGL_RS07030,arginine ABC transporter ATP-binding protein ArtP
+38,NC_22356.1_967733_969208,HIFGL_RS04720,energy-dependent translational throttle protein EttA
+39,NC_22356.1_1635312_1636343,HIFGL_RS07820,methionine ABC transporter ATP-binding protein MetN
+40,NC_22356.1_815870_817237,HIFGL_RS03995,glutathione-disulfide reductase
+41,NC_22356.1_438075_438860,HIFGL_RS02115,nucleoside triphosphate pyrophosphohydrolase
+42,NC_22356.1_585033_585485,HIFGL_RS02900,dUTP diphosphatase
+43,NC_22356.1_47646_48428,HIFGL_RS00230,NAD(+) diphosphatase
+44,NC_22356.1_1606186_1607073,HIFGL_RS07695,NAD(+) kinase
+45,NC_22356.1_1112770_1114305,HIFGL_RS05415,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+46,NC_22356.1_1114322_1115743,HIFGL_RS05420,Re/Si-specific NAD(P)(+) transhydrogenase subunit beta
+47,NC_22356.1_1056050_1057594,HIFGL_RS05160,signal peptide peptidase SppA
+48,NC_22356.1_393822_394556,HIFGL_RS01925,5'/3'-nucleotidase SurE
+49,NC_22356.1_405083_405802,HIFGL_RS01965,lipoprotein e(P4)
+50,NC_22356.1_99567_100205,HIFGL_RS00470,adenylate kinase
+51,NC_22356.1_94820_95434,HIFGL_RS00445,dephospho-CoA kinase
+52,NC_22356.1_313544_315259,HIFGL_RS01570,urease subunit alpha
+53,NC_22356.1_312848_313147,HIFGL_RS01560,urease subunit gamma
+54,NC_22356.1_402685_404154,HIFGL_RS01955,exopolyphosphatase
+55,NC_22356.1_452153_453199,HIFGL_RS02195,multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR
+56,NC_22356.1_79954_80376,HIFGL_RS00375,nucleoside-diphosphate kinase
+57,NC_22356.1_1449625_1450248,HIFGL_RS06965,guanylate kinase
+58,NC_22356.1_733976_734686,HIFGL_RS03595,UMP kinase
+59,NC_22356.1_593394_594269,HIFGL_RS02945,bifunctional riboflavin kinase/FAD synthetase
+60,NC_22356.1_243995_244786,HIFGL_RS01225,Cof-type HAD-IIB family hydrolase
+61,NC_22356.1_1794122_1794982,HIFGL_RS08630,pyridoxal kinase
+62,NC_22356.1_1455323_1456465,HIFGL_RS06990,methionine adenosyltransferase
+63,NC_22356.1_1839592_1840803,HIFGL_RS08870,pyridoxal phosphate-dependent aminotransferase
+64,NC_22356.1_1705093_1706769,HIFGL_RS08155,NAD nucleotidase
+65,NC_22356.1_206379_207185,HIFGL_RS01000,"3'(2'),5'-bisphosphate nucleotidase CysQ"
+66,NC_22356.1_938406_938945,HIFGL_RS04605,adenine phosphoribosyltransferase
+67,NC_22356.1_1502114_1502638,HIFGL_RS07215,hypoxanthine phosphoribosyltransferase
+68,NC_22356.1_920599_921285,HIFGL_RS04525,5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+69,NC_22356.1_1442503_1443630,HIFGL_RS06940,FMN-dependent L-lactate dehydrogenase LldD
+70,NC_22356.1_1488958_1492038,HIFGL_RS07155,FAD-binding and (Fe-S)-binding domain-containing protein
+71,NC_22356.1_1589763_1591496,HIFGL_RS07640,lipid A ABC transporter ATP-binding protein/permease MsbA
+72,NC_22356.1_1255526_1256944,HIFGL_RS06060,pyruvate kinase
+73,NC_22356.1_939143_940516,HIFGL_RS04610,dihydrolipoyl dehydrogenase
+74,NC_22356.1_940665_941963,HIFGL_RS04615,pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase
+75,NC_22356.1_1339612_1340838,HIFGL_RS06475,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+76,NC_22356.1_798765_801044,HIFGL_RS03900,formate C-acetyltransferase
+77,NC_22356.1_956991_958166,HIFGL_RS04675,NADP-dependent malic enzyme
+78,NC_22356.1_616585_617658,HIFGL_RS03070,3-isopropylmalate dehydrogenase
+79,NC_22356.1_956952_958160,HIFGL_RS04675,NADP-dependent malic enzyme
+80,NC_22356.1_956940_958160,HIFGL_RS04675,NADP-dependent malic enzyme
+81,NC_22356.1_1836726_1838081,HIFGL_RS08860,L-serine ammonia-lyase
+82,NC_22356.1_159398_160906,HIFGL_RS00770,"threonine ammonia-lyase, biosynthetic"
+83,NC_22356.1_905508_907640,HIFGL_RS04460,phosphate acetyltransferase
+84,NC_22356.1_459247_460425,HIFGL_RS02235,acetyl-CoA C-acetyltransferase
+85,NC_22356.1_528729_529826,HIFGL_RS02635,glutamate 5-kinase
+86,NC_22356.1_873042_874328,HIFGL_RS04305,NADP-specific glutamate dehydrogenase
+87,NC_22356.1_872982_874325,HIFGL_RS04305,NADP-specific glutamate dehydrogenase
+88,NC_22356.1_1418419_1419147,HIFGL_RS06850,5-oxoprolinase subunit PxpA
+89,NC_22356.1_1420087_1420692,HIFGL_RS06860,5-oxoprolinase subunit PxpB
+90,NC_22356.1_76044_77432,HIFGL_RS00360,glutamate--ammonia ligase
+91,NC_22356.1_926368_926946,HIFGL_RS04540,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT
+92,NC_22356.1_366482_367375,HIFGL_RS01800,L-asparaginase 2
+93,NC_22356.1_485936_487306,HIFGL_RS02435,argininosuccinate lyase
+94,NC_22356.1_1443844_1444650,HIFGL_RS06945,glutamate racemase
+95,NC_22356.1_1842246_1843934,HIFGL_RS08880,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+96,NC_22356.1_103200_105677,HIFGL_RS00495,nitrate reductase catalytic subunit NapA
+97,NC_22356.1_757701_758321,HIFGL_RS03705,superoxide dismutase [Mn]
+98,NC_22356.1_72181_72807,HIFGL_RS00345,pyridoxamine 5'-phosphate oxidase
+99,NC_22356.1_487435_488319,HIFGL_RS02440,UTP--glucose-1-phosphate uridylyltransferase GalU
+100,NC_22356.1_97047_98060,HIFGL_RS00460,UDP-glucose 4-epimerase GalE
+101,NC_22356.1_782256_783569,HIFGL_RS03825,xylose isomerase
+102,NC_22356.1_1493142_1494107,HIFGL_RS07175,ferrochelatase
+103,NC_22356.1_907711_908913,HIFGL_RS04465,acetate kinase
+104,NC_22356.1_1446768_1448810,HIFGL_RS06955,"bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase"
+105,NC_22356.1_112829_115057,HIFGL_RS00545,GTP diphosphokinase
+106,NC_22356.1_483121_484734,HIFGL_RS02425,phosphoenolpyruvate carboxykinase (ATP)
+107,NC_22356.1_913358_914215,HIFGL_RS04495,malate dehydrogenase
+108,NC_22356.1_1316455_1319091,HIFGL_RS06380,phosphoenolpyruvate carboxylase
+109,NC_22356.1_1549465_1550967,HIFGL_RS07440,citrate lyase subunit alpha
+110,NC_22356.1_1550982_1551851,HIFGL_RS07445,citrate (pro-3S)-lyase subunit beta
+111,NC_22356.1_1301437_1302624,HIFGL_RS06270,amino acid aminotransferase
+112,NC_22356.1_509070_510809,HIFGL_RS02555,fumarate reductase (quinol) flavoprotein subunit
+113,NC_22356.1_1767185_1768396,HIFGL_RS08485,IscS subfamily cysteine desulfurase
+114,NC_22356.1_1258526_1259566,HIFGL_RS06070,alanine racemase
+115,NC_22356.1_900048_900914,HIFGL_RS04430,succinate--CoA ligase subunit alpha
+116,NC_22356.1_898879_900042,HIFGL_RS04425,ADP-forming succinate--CoA ligase subunit beta
+117,NC_22356.1_273904_275271,HIFGL_RS01355,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+118,NC_22356.1_1214265_1214915,HIFGL_RS05855,GTP cyclohydrolase I FolE
+119,NC_22356.1_1612127_1612771,HIFGL_RS07725,GTP cyclohydrolase II
+120,NC_22356.1_175600_176844,HIFGL_RS00835,diaminopimelate decarboxylase
+121,NC_22356.1_255031_257190,HIFGL_RS01280,ornithine decarboxylase SpeF
+122,NC_22356.1_1573705_1574340,HIFGL_RS07570,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+123,NC_22356.1_851927_854371,HIFGL_RS04185,bifunctional aspartate kinase/homoserine dehydrogenase I
+124,NC_22356.1_210904_211893,HIFGL_RS01025,aspartate--ammonia ligase
+125,NC_22356.1_319096_320490,HIFGL_RS01600,aspartate ammonia-lyase
+126,NC_22356.1_1159029_1160420,HIFGL_RS05600,class II fumarate hydratase
+127,NC_22356.1_496230_497276,HIFGL_RS02480,galactose-1-phosphate uridylyltransferase
+128,NC_22356.1_921387_924140,HIFGL_RS04530,TonB-dependent receptor
+129,NC_22356.1_1270743_1272026,HIFGL_RS06125,3-phosphoshikimate 1-carboxyvinyltransferase
+130,NC_22356.1_1743056_1743658,HIFGL_RS08350,uridine kinase
+131,NC_22356.1_868339_869157,HIFGL_RS04275,S-formylglutathione hydrolase
+132,NC_22356.1_862139_863515,HIFGL_RS04250,cysteine--tRNA ligase
+133,NC_22356.1_1743691_1744269,HIFGL_RS08355,dCTP deaminase
+134,NC_22356.1_747456_749090,HIFGL_RS03645,CTP synthase (glutamine hydrolyzing)
+135,NC_22356.1_656865_657806,HIFGL_RS03210,phosphoserine phosphatase
+136,NC_22356.1_980410_981423,HIFGL_RS04760,homoserine O-acetyltransferase
+137,NC_22356.1_1083584_1084555,HIFGL_RS05275,thiamine-phosphate kinase
+138,NC_22356.1_1340951_1343746,HIFGL_RS06480,2-oxoglutarate dehydrogenase E1 component
+139,NC_22356.1_857540_858619,HIFGL_RS04220,methionine biosynthesis PLP-dependent protein
+140,NC_22356.1_562189_563496,HIFGL_RS02795,phosphopyruvate hydratase
+141,NC_22356.1_752631_753887,HIFGL_RS03670,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+142,NC_22356.1_390002_391408,HIFGL_RS01905,tryptophanase
+143,NC_22356.1_1105298_1106077,HIFGL_RS05380,tryptophan synthase subunit alpha
+144,NC_22356.1_1106089_1107270,HIFGL_RS05385,tryptophan synthase subunit beta
+145,NC_22356.1_578889_580421,HIFGL_RS02870,"L-2,4-diaminobutyrate decarboxylase"
+146,NC_22356.1_1508149_1509285,HIFGL_RS07255,prephenate dehydratase
+147,NC_22356.1_858638_859615,HIFGL_RS04225,2-hydroxyacid dehydrogenase
+148,NC_22356.1_1041975_1042901,HIFGL_RS05085,2-hydroxyacid dehydrogenase
+149,NC_22356.1_1795058_1796002,HIFGL_RS08635,acetyl-CoA carboxylase carboxyl transferase subunit alpha
+150,NC_22356.1_600417_601760,HIFGL_RS02990,acetyl-CoA carboxylase biotin carboxylase subunit
+151,NC_22356.1_977082_977966,HIFGL_RS04745,"acetyl-CoA carboxylase, carboxyltransferase subunit beta"
+152,NC_22356.1_869172_870305,HIFGL_RS04280,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+153,NC_22356.1_610829_611788,HIFGL_RS03045,6-phosphofructokinase
+154,NC_22356.1_865611_866522,HIFGL_RS04265,N-acetylglucosamine kinase
+155,NC_22356.1_1328164_1329138,HIFGL_RS06425,class 1 fructose-bisphosphatase
+156,NC_22356.1_304068_305024,HIFGL_RS01505,class II fructose-bisphosphatase
+157,NC_22356.1_836242_837018,HIFGL_RS04095,glucosamine-6-phosphate deaminase
+158,NC_22356.1_49577_51406,HIFGL_RS00245,glutamine--fructose-6-phosphate transaminase (isomerizing)
+159,NC_22356.1_1259683_1261329,HIFGL_RS06075,glucose-6-phosphate isomerase
+160,NC_22356.1_1419164_1420069,HIFGL_RS06855,5-oxoprolinase/urea amidolyase family protein
+161,NC_22356.1_1733221_1734381,HIFGL_RS08295,cystathionine beta-lyase
+162,NC_22356.1_857534_858610,HIFGL_RS04220,methionine biosynthesis PLP-dependent protein
+163,NC_22356.1_776911_778041,HIFGL_RS03805,MalY/PatB family protein
+164,NC_22356.1_744091_745224,HIFGL_RS03635,cytochrome d ubiquinol oxidase subunit II
+165,NC_22356.1_204847_206289,HIFGL_RS00995,glucose-6-phosphate dehydrogenase
+166,NC_22356.1_1653834_1654838,HIFGL_RS07910,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+167,NC_22356.1_406839_408353,HIFGL_RS01975,glycerol kinase GlpK
+168,NC_22356.1_770556_771488,HIFGL_RS03780,cysteine synthase A
+169,NC_22356.1_309013_310464,HIFGL_RS01545,aminoacyl-histidine dipeptidase
+170,NC_22356.1_1394676_1396142,HIFGL_RS06740,leucyl aminopeptidase
+171,NC_22356.1_249406_250617,HIFGL_RS01250,Zn-dependent hydrolase
+172,NC_22356.1_459247_460422,HIFGL_RS02235,acetyl-CoA C-acetyltransferase
+173,NC_22356.1_528149_528628,HIFGL_RS02630,type 3 dihydrofolate reductase
+174,NC_22356.1_977983_979275,HIFGL_RS04750,bifunctional tetrahydrofolate synthase/dihydrofolate synthase
+175,NC_22356.1_1269907_1270740,HIFGL_RS06120,formyltetrahydrofolate deformylase
+176,NC_22356.1_93484_94746,HIFGL_RS00440,serine hydroxymethyltransferase
+177,NC_22356.1_1169314_1170597,HIFGL_RS05640,glucose-1-phosphate adenylyltransferase
+178,NC_22356.1_154090_155487,HIFGL_RS00760,phospho-sugar mutase
+179,NC_22356.1_932403_933092,HIFGL_RS04575,orotidine-5'-phosphate decarboxylase
+180,NC_22356.1_935562_936185,HIFGL_RS04595,uracil phosphoribosyltransferase
+181,NC_22356.1_1148501_1149979,HIFGL_RS05545,anthranilate synthase component I
+182,NC_22356.1_1150019_1150597,HIFGL_RS05550,aminodeoxychorismate/anthranilate synthase component II
+183,NC_22356.1_422949_423686,HIFGL_RS02040,triose-phosphate isomerase
+184,NC_22356.1_1060262_1061077,HIFGL_RS05180,phosphorylcholine kinase LicA
+185,NC_22356.1_411472_412515,HIFGL_RS01995,glycerophosphodiester phosphodiesterase
+186,NC_22356.1_1288659_1289603,HIFGL_RS06210,ribose-phosphate pyrophosphokinase
+187,NC_22356.1_353606_354511,HIFGL_RS01735,ribokinase
+188,NC_22356.1_138522_139163,HIFGL_RS00665,ribose-5-phosphate isomerase RpiA
+189,NC_22356.1_1450496_1451491,HIFGL_RS06970,type I glyceraldehyde-3-phosphate dehydrogenase
+190,NC_22356.1_786756_787346,HIFGL_RS03845,deoxyribose-phosphate aldolase
+191,NC_22356.1_654527_656503,HIFGL_RS03205,transketolase
+192,NC_22356.1_330680_331750,HIFGL_RS01650,class II fructose-bisphosphate aldolase
+193,NC_22356.1_910162_911673,HIFGL_RS04480,amidophosphoribosyltransferase
+194,NC_22356.1_1150019_1150585,HIFGL_RS05550,aminodeoxychorismate/anthranilate synthase component II
+195,NC_22356.1_1151088_1152086,HIFGL_RS05560,anthranilate phosphoribosyltransferase
+196,NC_22356.1_1667702_1668607,HIFGL_RS07985,bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA
+197,NC_22356.1_1763423_1765012,HIFGL_RS08460,Fe-S protein assembly chaperone HscA
+198,NC_22356.1_947892_949661,HIFGL_RS04635,molecular chaperone DnaK
+199,NC_22356.1_271187_272554,HIFGL_RS01340,adenylosuccinate lyase
+200,NC_22356.1_895231_896259,HIFGL_RS04410,branched-chain amino acid aminotransferase
+201,NC_22356.1_495018_496157,HIFGL_RS02475,galactokinase
+202,NC_22356.1_992755_993417,HIFGL_RS04800,N-acylneuraminate cytidylyltransferase
+203,NC_22356.1_90417_92003,HIFGL_RS00430,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+204,NC_22356.1_1668743_1670188,HIFGL_RS07990,IMP dehydrogenase
+205,NC_22356.1_1312720_1314012,HIFGL_RS06365,adenylosuccinate synthase
+206,NC_22356.1_1513783_1514697,HIFGL_RS07280,D-alanine--D-alanine ligase
+207,NC_22356.1_580629_581909,HIFGL_RS02875,diaminobutyrate--2-oxoglutarate transaminase
+208,NC_22356.1_1778318_1780003,HIFGL_RS08555,long-chain-fatty-acid--CoA ligase FadD
+209,NC_22356.1_462465_463115,HIFGL_RS02250,acetate CoA-transferase subunit alpha
+210,NC_22356.1_461792_462451,HIFGL_RS02245,3-oxoacid CoA-transferase subunit B
+211,NC_22356.1_568514_569308,HIFGL_RS02820,inositol-1-monophosphatase
+212,NC_22356.1_161016_162851,HIFGL_RS00775,dihydroxy-acid dehydratase
+213,NC_22356.1_614952_616490,HIFGL_RS03065,2-isopropylmalate synthase
+214,NC_22356.1_1650440_1651276,HIFGL_RS07895,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
+215,NC_22356.1_1212142_1213011,HIFGL_RS05840,methylenetetrahydrofolate reductase
+216,NC_22356.1_308439_308903,HIFGL_RS01540,xanthine phosphoribosyltransferase
+217,NC_22356.1_406189_406755,HIFGL_RS01970,xanthine phosphoribosyltransferase
+218,NC_22356.1_1670315_1671877,HIFGL_RS07995,glutamine-hydrolyzing GMP synthase
+219,NC_22356.1_1819142_1819954,HIFGL_RS08765,pyrroline-5-carboxylate reductase
+220,NC_22356.1_153397_153897,HIFGL_RS00755,S-ribosylhomocysteine lyase
+221,NC_22356.1_211964_212635,HIFGL_RS01030,phosphoglycolate phosphatase
+222,NC_22356.1_1042062_1042907,HIFGL_RS05085,2-hydroxyacid dehydrogenase
+223,NC_22356.1_245213_246214,HIFGL_RS01230,ornithine carbamoyltransferase
+224,NC_22356.1_804379_805104,HIFGL_RS03925,peptidoglycan editing factor PgeF
+225,NC_22356.1_654491_656491,HIFGL_RS03205,transketolase
+226,NC_22356.1_855374_856645,HIFGL_RS04195,threonine synthase
+227,NC_22356.1_1574355_1575752,HIFGL_RS07575,glucuronate isomerase
+228,NC_22356.1_329402_330553,HIFGL_RS01645,phosphoglycerate kinase
+229,NC_22356.1_139211_140440,HIFGL_RS00670,phosphoglycerate dehydrogenase
+230,NC_22356.1_849713_850846,HIFGL_RS04175,glycerate kinase
+231,NC_22356.1_433910_434593,HIFGL_RS02080,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase"
+232,NC_22356.1_202190_203590,HIFGL_RS00980,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase
+233,NC_22356.1_212687_213355,HIFGL_RS01035,ribulose-phosphate 3-epimerase
+234,NC_22356.1_1359901_1360806,HIFGL_RS06555,KpsF/GutQ family sugar isomerase
+235,NC_22356.1_1576661_1577560,HIFGL_RS07585,sugar kinase
+236,NC_22356.1_1107288_1108040,HIFGL_RS05390,SDR family oxidoreductase
+237,NC_22356.1_1575765_1576607,HIFGL_RS07580,SDR family oxidoreductase
+238,NC_22356.1_326210_326773,HIFGL_RS01625,thymidine kinase
+239,NC_22356.1_1644231_1645979,HIFGL_RS07860,L-fucose isomerase
+240,NC_22356.1_493974_494993,HIFGL_RS02470,galactose-1-epimerase
+241,NC_22356.1_783638_785086,HIFGL_RS03830,xylulokinase
+242,NC_22356.1_1206737_1207528,HIFGL_RS05810,"(2E,6E)-farnesyl diphosphate synthase"
+243,NC_22356.1_583918_584961,HIFGL_RS02895,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+244,NC_22356.1_881708_882778,HIFGL_RS04340,chorismate synthase
+245,NC_22356.1_1245186_1246295,HIFGL_RS06020,bifunctional chorismate mutase/prephenate dehydrogenase
+246,NC_22356.1_1482471_1483421,HIFGL_RS07120,aminodeoxychorismate synthase component I
+247,NC_22356.1_1481857_1482426,HIFGL_RS07115,anthranilate synthase component II
+248,NC_22356.1_1148498_1149991,HIFGL_RS05545,anthranilate synthase component I
+249,NC_22356.1_1840954_1842228,HIFGL_RS08875,isochorismate synthase MenF
+250,NC_22356.1_986901_987587,HIFGL_RS04775,hydroxyacylglutathione hydrolase
+251,NC_22356.1_854396_855319,HIFGL_RS04190,homoserine kinase
+252,NC_22356.1_980356_981420,HIFGL_RS04760,homoserine O-acetyltransferase
+253,NC_22356.1_835218_836057,HIFGL_RS04090,N-acetylneuraminate lyase
+254,NC_22356.1_154087_155613,HIFGL_RS00760,phospho-sugar mutase
+255,NC_22356.1_1050909_1051946,HIFGL_RS05130,3-deoxy-7-phosphoheptulonate synthase AroG
+256,NC_22356.1_796575_797525,HIFGL_RS03890,transaldolase
+257,NC_22356.1_304044_305033,HIFGL_RS01505,class II fructose-bisphosphatase
+258,NC_22356.1_1854210_1854848,HIFGL_RS08955,orotate phosphoribosyltransferase
+259,NC_22356.1_1846357_1847112,HIFGL_RS08895,uridine phosphorylase
+260,NC_22356.1_1228852_1229664,HIFGL_RS05940,cytidine deaminase
+261,NC_22356.1_821782_822495,HIFGL_RS04025,3-oxoacyl-ACP reductase FabG
+262,NC_22356.1_559922_561088,HIFGL_RS02780,glutathionylspermidine synthase family protein
+263,NC_22356.1_422500_422814,HIFGL_RS02035,thiosulfate sulfurtransferase GlpE
+264,NC_22356.1_1415764_1417095,HIFGL_RS06840,argininosuccinate synthase
+265,NC_22356.1_1206650_1207525,HIFGL_RS05810,"(2E,6E)-farnesyl diphosphate synthase"
+266,NC_22356.1_204033_204728,HIFGL_RS00990,6-phosphogluconolactonase
+267,NC_22356.1_837107_838249,HIFGL_RS04100,N-acetylglucosamine-6-phosphate deacetylase
+268,NC_22356.1_1186988_1188319,HIFGL_RS05705,phosphoglucosamine mutase
+269,NC_22356.1_448756_449679,HIFGL_RS02180,1-phosphofructokinase
+270,NC_22356.1_459250_460425,HIFGL_RS02235,acetyl-CoA C-acetyltransferase
+271,NC_22356.1_832715_833395,HIFGL_RS04075,N-acetylmannosamine-6-phosphate 2-epimerase
+272,NC_22356.1_441672_442298,HIFGL_RS02135,dTMP kinase
+273,NC_22356.1_532125_532973,HIFGL_RS02655,thymidylate synthase
+274,NC_22356.1_1643223_1643969,HIFGL_RS07855,DeoR/GlpR family DNA-binding transcription regulator
+275,NC_22356.1_1015953_1016582,HIFGL_RS04915,3-oxo-tetronate 4-phosphate decarboxylase
+276,NC_22356.1_1647950_1648576,HIFGL_RS07875,L-fuculose-phosphate aldolase
+277,NC_22356.1_580635_581918,HIFGL_RS02875,diaminobutyrate--2-oxoglutarate transaminase
+278,NC_22356.1_281102_282214,HIFGL_RS01395,aspartate-semialdehyde dehydrogenase
+279,NC_22356.1_18098_18976,HIFGL_RS00090,4-hydroxy-tetrahydrodipicolinate synthase
+280,NC_22356.1_1684111_1684671,HIFGL_RS08045,5-formyltetrahydrofolate cyclo-ligase
+281,NC_22356.1_1106095_1107255,HIFGL_RS05385,tryptophan synthase subunit beta
+282,NC_22356.1_290379_291110,HIFGL_RS01440,glycosyltransferase family 2 protein
+283,NC_22356.1_1704272_1704784,HIFGL_RS08150,shikimate kinase AroK
+284,NC_22356.1_291911_292714,HIFGL_RS01450,shikimate dehydrogenase
+285,NC_22356.1_249400_250599,HIFGL_RS01250,Zn-dependent hydrolase
+286,NC_22356.1_975499_976860,HIFGL_RS04740,DegQ family serine endoprotease
+287,NC_22356.1_576850_577722,HIFGL_RS02860,outer membrane-stress sensor serine endopeptidase DegS
+288,NC_22356.1_418774_420249,HIFGL_RS02020,ketol-acid reductoisomerase
+289,NC_22356.1_1451717_1453501,HIFGL_RS06975,long-chain fatty acid--CoA ligase
+290,NC_22356.1_857516_858619,HIFGL_RS04220,methionine biosynthesis PLP-dependent protein
+291,NC_22356.1_1808346_1808750,HIFGL_RS08695,lactoylglutathione lyase
+292,NC_22356.1_833449_834315,HIFGL_RS04080,N-acetylmannosamine kinase
+293,NC_22356.1_1474875_1476002,HIFGL_RS07085,succinyl-diaminopimelate desuccinylase
+294,NC_22356.1_192216_193037,HIFGL_RS00910,diaminopimelate epimerase
+295,NC_22356.1_280116_281045,HIFGL_RS01390,alpha/beta hydrolase
+296,NC_22356.1_77538_78557,HIFGL_RS00365,"dTDP-glucose 4,6-dehydratase"
+297,NC_22356.1_1518578_1519879,HIFGL_RS07300,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+298,NC_22356.1_1522461_1523921,HIFGL_RS07315,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+299,NC_22356.1_225691_226611,HIFGL_RS01120,type I pantothenate kinase
+300,NC_22356.1_288560_289027,HIFGL_RS01430,pantetheine-phosphate adenylyltransferase
+301,NC_22356.1_1188360_1189184,HIFGL_RS05710,dihydropteroate synthase
+302,NC_22356.1_1703152_1704213,HIFGL_RS08145,3-dehydroquinate synthase
+303,NC_22356.1_599181_599627,HIFGL_RS02980,type II 3-dehydroquinate dehydratase
+304,NC_22356.1_1048003_1048617,HIFGL_RS05115,dethiobiotin synthase
+305,NC_22356.1_1829_2827,HIFGL_RS00020,UDP-N-acetylmuramate dehydrogenase
+306,NC_22356.1_1514783_1516177,HIFGL_RS07285,UDP-N-acetylmuramate--L-alanine ligase
+307,NC_22356.1_1731104_1732414,HIFGL_RS08285,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+308,NC_22356.1_1045434_1046564,HIFGL_RS05100,8-amino-7-oxononanoate synthase
+309,NC_22356.1_125615_126292,HIFGL_RS00610,thiamine phosphate synthase
+310,NC_22356.1_1044145_1045404,HIFGL_RS05095,adenosylmethionine--8-amino-7-oxononanoate transaminase
+311,NC_22356.1_1646031_1647452,HIFGL_RS07865,L-fuculokinase
+312,NC_22356.1_1485930_1486985,HIFGL_RS07140,histidinol-phosphate transaminase
+313,NC_22356.1_1041065_1041913,HIFGL_RS05080,3-deoxy-8-phosphooctulonate synthase
+314,NC_22356.1_583789_584958,HIFGL_RS02895,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+315,NC_22356.1_951265_952503,HIFGL_RS04645,glutamate-5-semialdehyde dehydrogenase
+316,NC_22356.1_1360825_1361364,HIFGL_RS06560,HAD family hydrolase
+317,NC_22356.1_1587857_1588612,HIFGL_RS07630,3-deoxy-manno-octulosonate cytidylyltransferase
+318,NC_22356.1_1693710_1695296,HIFGL_RS08085,ABC transporter substrate-binding protein
+319,NC_22356.1_1320720_1322285,HIFGL_RS06390,ABC transporter substrate-binding protein
+320,NC_22356.1_688972_690456,HIFGL_RS03350,uncharacterized gene
+321,NC_22356.1_1056248_1057642,HIFGL_RS05160,signal peptide peptidase SppA
+322,NC_22356.1_575632_576732,HIFGL_RS02855,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+323,NC_22356.1_124867_125601,HIFGL_RS00605,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+324,NC_22356.1_1596236_1596715,HIFGL_RS07660,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+325,NC_22356.1_5270_5623,HIFGL_RS00035,dihydroneopterin aldolase
+326,NC_22356.1_1152159_1153544,HIFGL_RS05565,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF
+327,NC_22356.1_479071_480129,HIFGL_RS02405,anaerobic sulfatase maturase
+328,NC_22356.1_885661_886656,HIFGL_RS04360,"selenide, water dikinase SelD"
+329,NC_22356.1_617838_619232,HIFGL_RS03075,3-isopropylmalate dehydratase large subunit
+330,NC_22356.1_619272_619868,HIFGL_RS03080,3-isopropylmalate dehydratase small subunit
+331,NC_22356.1_617844_619238,HIFGL_RS03075,3-isopropylmalate dehydratase large subunit
+332,NC_22356.1_876981_878321,HIFGL_RS04330,o-succinylbenzoate--CoA ligase
+333,NC_22356.1_598143_599084,HIFGL_RS02975,o-succinylbenzoate synthase
+334,NC_22356.1_1825830_1826360,HIFGL_RS08800,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD"
+335,NC_22356.1_92071_93357,HIFGL_RS00435,phosphoribosylamine--glycine ligase
+336,NC_22356.1_597208_598062,HIFGL_RS02970,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+337,NC_22356.1_1484719_1485795,HIFGL_RS07135,3-phosphoserine/phosphohydroxythreonine transaminase
+338,NC_22356.1_1085704_1086513,HIFGL_RS05290,4-hydroxy-tetrahydrodipicolinate reductase
+339,NC_22356.1_1108223_1109251,HIFGL_RS05395,phosphoribosylformylglycinamidine cyclo-ligase
+340,NC_22356.1_1109315_1109938,HIFGL_RS05400,phosphoribosylglycinamide formyltransferase
+341,NC_22356.1_1314083_1314904,HIFGL_RS06370,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+342,NC_22356.1_1389940_1392198,HIFGL_RS06725,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+343,NC_22356.1_124011_124793,HIFGL_RS00600,hydroxyethylthiazole kinase
+344,NC_22356.1_1082606_1083067,HIFGL_RS05265,"6,7-dimethyl-8-ribityllumazine synthase"
+345,NC_22356.1_425533_429423,HIFGL_RS02055,phosphoribosylformylglycinamidine synthase
+346,NC_22356.1_165887_166597,HIFGL_RS00800,"UDP-2,3-diacylglucosamine diphosphatase"
+347,NC_22356.1_1521089_1522441,HIFGL_RS07310,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+348,NC_22356.1_1509415_1510329,HIFGL_RS07260,UDP-3-O-acyl-N-acetylglucosamine deacetylase
+349,NC_22356.1_1414715_1415584,HIFGL_RS06835,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+350,NC_22356.1_729784_730890,HIFGL_RS03575,lipid-A-disaccharide synthase
+351,NC_22356.1_1588689_1589681,HIFGL_RS07635,tetraacyldisaccharide 4'-kinase
+352,NC_22356.1_289027_290307,HIFGL_RS01435,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase
+353,NC_22356.1_1516296_1517333,HIFGL_RS07290,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+354,NC_22356.1_74898_75584,HIFGL_RS00355,uncharacterized gene
+355,NC_22356.1_785170_786090,HIFGL_RS03835,ADP-glyceromanno-heptose 6-epimerase
+356,NC_22356.1_1710358_1710984,HIFGL_RS08185,glutathione S-transferase family protein
+357,NC_22356.1_440852_441625,HIFGL_RS02130,endolytic transglycosylase MltG
+358,NC_22356.1_1583824_1585002,HIFGL_RS07615,mannonate dehydratase
+359,NC_22356.1_1611335_1612057,HIFGL_RS07720,phosphatase PAP2 family protein
+360,NC_22356.1_1520037_1521074,HIFGL_RS07305,phospho-N-acetylmuramoyl-pentapeptide-transferase
+361,NC_22356.1_307370_308023,HIFGL_RS01530,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+362,NC_22356.1_1287785_1288630,HIFGL_RS06205,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+363,NC_22356.1_1207573_1209432,HIFGL_RS05815,1-deoxy-D-xylulose-5-phosphate synthase
+364,NC_22356.1_306888_307361,HIFGL_RS01525,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+365,NC_22356.1_1072619_1074034,HIFGL_RS05225,bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE
+366,NC_22356.1_1463320_1463895,HIFGL_RS07035,D-sedoheptulose 7-phosphate isomerase
+367,NC_22356.1_1634585_1635136,HIFGL_RS07815,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase"
+368,NC_22356.1_481125_482291,HIFGL_RS02415,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+369,NC_22356.1_737326_738690,HIFGL_RS03615,ammonia-forming nitrite reductase cytochrome c552 subunit
+370,NC_22356.1_648294_649229,HIFGL_RS03175,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+371,NC_22356.1_548796_549512,HIFGL_RS02730,polyprenyl diphosphate synthase
+372,NC_22356.1_83474_84439,HIFGL_RS00400,octaprenyl diphosphate synthase
+373,NC_22356.1_453583_454215,HIFGL_RS02200,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+374,NC_22356.1_1300237_1301193,HIFGL_RS06265,5-(carboxyamino)imidazole ribonucleotide synthase
+375,NC_22356.1_1299646_1300137,HIFGL_RS06260,5-(carboxyamino)imidazole ribonucleotide mutase
+376,NC_22356.1_1739613_1741658,HIFGL_RS08340,iron ABC transporter permease
+377,NC_22356.1_1450499_1451515,HIFGL_RS06970,type I glyceraldehyde-3-phosphate dehydrogenase
+378,NC_22356.1_1738602_1739561,HIFGL_RS08335,ferric ABC transporter ATP-binding protein
+379,NC_22356.1_779483_780967,HIFGL_RS03815,D-xylose ABC transporter ATP-binding protein
+380,NC_22356.1_499721_501238,HIFGL_RS02495,galactose/methyl galactoside ABC transporter ATP-binding protein MglA
+381,NC_22356.1_8460_10151,HIFGL_RS00045,heme/hemopexin-binding protein HxuB
+382,NC_22356.1_1497976_1499619,HIFGL_RS07195,cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+383,NC_22356.1_1754418_1755197,HIFGL_RS08410,metal ABC transporter substrate-binding protein
+384,NC_22356.1_1189337_1191205,HIFGL_RS05715,ATP-dependent zinc metalloprotease FtsH
+385,NC_22356.1_1833083_1835224,HIFGL_RS08850,heavy metal translocating P-type ATPase
+386,NC_22356.1_1754424_1755239,HIFGL_RS08410,metal ABC transporter substrate-binding protein
+387,NC_22356.1_1796966_1797640,HIFGL_RS08645,zinc ABC transporter ATP-binding protein ZnuC
+388,NC_22356.1_1729312_1730388,HIFGL_RS08275,zinc ABC transporter substrate-binding protein ZnuA
+389,NC_22356.1_1462456_1463184,HIFGL_RS07030,arginine ABC transporter ATP-binding protein ArtP
+390,NC_22356.1_779465_780967,HIFGL_RS03815,D-xylose ABC transporter ATP-binding protein
+391,NC_22356.1_1833080_1835221,HIFGL_RS08850,heavy metal translocating P-type ATPase
+392,NC_22356.1_781030_781947,HIFGL_RS03820,D-xylose ABC transporter substrate-binding protein
+393,NC_22356.1_1002628_1003305,HIFGL_RS04855,molybdenum ABC transporter ATP-binding protein ModC
+394,NC_22356.1_1305221_1305901,HIFGL_RS06295,DUF4198 domain-containing protein
+395,NC_22356.1_1466138_1467739,HIFGL_RS07055,ABC transporter permease subunit
+396,NC_22356.1_122395_123336,HIFGL_RS00590,ABC transporter substrate-binding protein
+397,NC_22356.1_651132_652529,HIFGL_RS03190,thiamine/thiamine pyrophosphate ABC transporter permease
+398,NC_22356.1_779474_781003,HIFGL_RS03815,D-xylose ABC transporter ATP-binding protein
+399,NC_22356.1_1367146_1368504,HIFGL_RS09485,uncharacterized gene
+400,NC_22356.1_1477785_1479302,HIFGL_RS07100,iron ABC transporter permease
+401,NC_22356.1_1589715_1591292,HIFGL_RS07640,lipid A ABC transporter ATP-binding protein/permease MsbA
+402,NC_22356.1_934196_935389,HIFGL_RS04590,NCS2 family protein
+403,NC_22356.1_1737121_1738446,HIFGL_RS08330,NCS2 family permease
+404,NC_22356.1_1052784_1054001,HIFGL_RS05140,serine/threonine transporter SstT
+405,NC_22356.1_823299_824492,HIFGL_RS04035,anaerobic C4-dicarboxylate transporter
+406,NC_22356.1_889353_890114,HIFGL_RS04380,threonine/serine exporter ThrE family protein
+407,NC_22356.1_775455_776861,HIFGL_RS03800,Na+/H+ antiporter NhaC
+408,NC_22356.1_1579383_1580627,HIFGL_RS07600,TRAP transporter large permease
+409,NC_22356.1_594331_595890,HIFGL_RS02950,murein biosynthesis integral membrane protein MurJ
+410,NC_22356.1_367759_368790,HIFGL_RS01805,anaerobic C4-dicarboxylate transporter
+411,NC_22356.1_412750_414096,HIFGL_RS02000,glycerol-3-phosphate transporter
+412,NC_22356.1_126261_127580,HIFGL_RS00615,MFS transporter
+413,NC_22356.1_1291789_1293159,HIFGL_RS06225,sodium-coupled multidrug efflux MATE transporter HmrM
+414,NC_22356.1_1546476_1547882,HIFGL_RS07430,anion permease
+415,NC_22356.1_164135_165622,HIFGL_RS00790,sodium-dependent transporter
+416,NC_22356.1_85319_86662,HIFGL_RS00410,sodium:alanine symporter family protein
+417,NC_22356.1_866778_868124,HIFGL_RS04270,sodium:alanine symporter family protein
+418,NC_22356.1_823296_824504,HIFGL_RS04035,anaerobic C4-dicarboxylate transporter
+419,NC_22356.1_1226322_1227818,HIFGL_RS05930,sodium/proline symporter PutP
+420,NC_22356.1_1396200_1398173,HIFGL_RS06745,BCCT family transporter
+421,NC_22356.1_1401278_1401724,HIFGL_RS06770,PTS glucose transporter subunit IIA
+422,NC_22356.1_1335960_1338179,HIFGL_RS06465,class 1a ribonucleoside-diphosphate reductase subunit alpha
+423,NC_22356.1_1338364_1339491,HIFGL_RS06470,class Ia ribonucleoside-diphosphate reductase subunit beta
+424,NC_22356.1_1674853_1676139,HIFGL_RS08015,branched-chain amino acid transport system II carrier protein
+425,NC_22356.1_1495123_1496067,HIFGL_RS07185,thioredoxin-disulfide reductase
+426,NC_22356.1_1759565_1760665,HIFGL_RS08435,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+427,NC_22356.1_1651440_1652789,HIFGL_RS07900,DASS family sodium-coupled anion symporter
+428,NC_22356.1_1066078_1067202,HIFGL_RS05205,sodium/glutamate symporter
+429,NC_22356.1_525264_526766,HIFGL_RS02620,DHA2 family efflux MFS transporter permease subunit
+430,NC_22356.1_1805917_1807137,HIFGL_RS08685,Na+/H+ antiporter family protein
+431,NC_22356.1_1835438_1836682,HIFGL_RS08855,HAAAP family serine/threonine permease
+432,NC_22356.1_1838279_1839466,HIFGL_RS08865,tryptophan permease
+433,NC_22356.1_142390_143580,HIFGL_RS00685,aromatic amino acid transporter
+434,NC_22356.1_253611_254918,HIFGL_RS01275,putrescine-ornithine antiporter
+435,NC_22356.1_247271_248719,HIFGL_RS01240,YfcC family protein
+436,NC_22356.1_1267488_1268981,HIFGL_RS06110,Na+/H+ antiporter NhaC family protein
+437,NC_22356.1_1217461_1218360,HIFGL_RS09300,lysine exporter LysO family protein
+438,NC_22356.1_604630_606066,HIFGL_RS03010,sodium/pantothenate symporter
+439,NC_22356.1_600378_601730,HIFGL_RS02990,acetyl-CoA carboxylase biotin carboxylase subunit
+440,NC_22356.1_1430617_1431402,HIFGL_RS06880,SDR family oxidoreductase
+441,NC_22356.1_1200106_1200636,HIFGL_RS05765,bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase
+442,NC_22356.1_821773_822498,HIFGL_RS04025,3-oxoacyl-ACP reductase FabG
+443,NC_22356.1_819294_820241,HIFGL_RS04015,beta-ketoacyl-ACP synthase III
+444,NC_22356.1_1063439_1064650,HIFGL_RS05190,beta-ketoacyl-ACP synthase I
+445,NC_22356.1_820818_821747,HIFGL_RS04020,ACP S-malonyltransferase
+446,NC_22356.1_521160_524183,HIFGL_RS02610,efflux RND transporter permease subunit
+447,NC_22356.1_1546470_1547858,HIFGL_RS07430,anion permease
+448,NC_22356.1_1745475_1746566,HIFGL_RS08365,sugar transporter
+449,NC_22356.1_1695581_1696885,HIFGL_RS08090,MDR family MFS transporter
+450,NC_22356.1_410449_411231,HIFGL_RS01990,MIP/aquaporin family protein
+451,NC_22356.1_790742_791704,HIFGL_RS03865,murein tripeptide/oligopeptide ABC transporter ATP binding protein OppF
+452,NC_22356.1_1476857_1477777,HIFGL_RS07095,heme ABC transporter ATP-binding protein FbpC
+453,NC_22356.1_1738719_1739585,HIFGL_RS08335,ferric ABC transporter ATP-binding protein
+454,NC_22356.1_797879_798628,HIFGL_RS03895,formate transporter FocA
+455,NC_22356.1_449690_451339,HIFGL_RS02185,fructose-specific PTS transporter subunit EIIC
+456,NC_22356.1_1401937_1403439,HIFGL_RS06775,phosphoenolpyruvate-protein phosphotransferase PtsI
+457,NC_22356.1_509067_510629,HIFGL_RS02555,fumarate reductase (quinol) flavoprotein subunit
+458,NC_22356.1_1092132_1093706,HIFGL_RS05325,solute:sodium symporter family transporter
+459,NC_22356.1_412753_414096,HIFGL_RS02000,glycerol-3-phosphate transporter
+460,NC_22356.1_883816_884538,HIFGL_RS04350,TSUP family transporter
+461,NC_22356.1_229830_231203,HIFGL_RS01150,Trk system potassium transporter TrkA
+462,NC_22356.1_52000_53538,HIFGL_RS00255,Na(+)/H(+) antiporter NhaB
+463,NC_22356.1_184795_186156,HIFGL_RS00880,TrkH family potassium uptake protein
+464,NC_22356.1_1673472_1674611,HIFGL_RS08010,Na+/H+ antiporter NhaA
+465,NC_22356.1_537712_539334,HIFGL_RS02685,monovalent cation:proton antiporter-2 (CPA2) family protein
+466,NC_22356.1_1745478_1746644,HIFGL_RS08365,sugar transporter
+467,NC_22356.1_808579_809793,HIFGL_RS03955,NADH:ubiquinone reductase (Na(+)-transporting) subunit F
+468,NC_22356.1_1464921_1465892,HIFGL_RS07045,peptide ABC transporter ATP-binding protein
+469,NC_22356.1_1291801_1293159,HIFGL_RS06225,sodium-coupled multidrug efflux MATE transporter HmrM
+470,NC_22356.1_521166_524243,HIFGL_RS02610,efflux RND transporter permease subunit
+471,NC_22356.1_769660_770376,HIFGL_RS03775,sulfate transporter CysZ
+472,NC_22356.1_1561770_1563368,HIFGL_RS07505,putative transporter
+473,NC_22356.1_1838255_1839400,HIFGL_RS08865,tryptophan permease
+474,NC_22356.1_164156_165652,HIFGL_RS00790,sodium-dependent transporter
+475,NC_22356.1_460452_461783,HIFGL_RS02240,TIGR00366 family protein
+476,NC_22356.1_414434_416020,HIFGL_RS02005,anaerobic glycerol-3-phosphate dehydrogenase subunit A
+477,NC_22356.1_416070_417356,HIFGL_RS02010,glycerol-3-phosphate dehydrogenase subunit GlpB
+478,NC_22356.1_417455_418651,HIFGL_RS02015,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpC
+479,NC_22356.1_864492_865298,HIFGL_RS04260,acyl-CoA thioesterase II
+480,NC_22356.1_653363_654361,HIFGL_RS03200,biotin synthase BioB
+481,NC_22356.1_547915_548775,HIFGL_RS02725,phosphatidate cytidylyltransferase
+482,NC_22356.1_54448_55812,HIFGL_RS00265,CDP-diacylglycerol--serine O-phosphatidyltransferase
+483,NC_22356.1_1735245_1735799,HIFGL_RS08305,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+484,NC_22356.1_1084567_1085055,HIFGL_RS05280,phosphatidylglycerophosphatase A
+485,NC_22356.1_817361_818221,HIFGL_RS04000,archaetidylserine decarboxylase
+486,NC_22356.1_1165085_1167493,HIFGL_RS05630,glycogen/starch/alpha-glucan phosphorylase
+487,NC_22356.1_810430_811050,HIFGL_RS03965,NADH:ubiquinone reductase (Na(+)-transporting) subunit D
+488,NC_22356.1_1377166_1377777,HIFGL_RS06640,electron transport complex subunit E
+489,NC_22356.1_669819_672221,HIFGL_RS03275,DMSO/selenate family reductase complex A subunit
+490,NC_22356.1_187350_188681,HIFGL_RS00895,NAD(P)/FAD-dependent oxidoreductase
+491,NC_22356.1_112458_112811,HIFGL_RS00540,diacylglycerol kinase
+492,NC_22356.1_166683_167396,HIFGL_RS00805,1-acylglycerol-3-phosphate O-acyltransferase
+493,NC_22356.1_1289682_1290857,HIFGL_RS06215,tyrosine--tRNA ligase
+494,NC_22356.1_488613_491234,HIFGL_RS02450,alanine--tRNA ligase
+495,NC_22356.1_1262957_1264687,HIFGL_RS06095,arginine--tRNA ligase
+496,NC_22356.1_1080979_1082379,HIFGL_RS05260,asparagine--tRNA ligase
+497,NC_22356.1_862148_863524,HIFGL_RS04250,cysteine--tRNA ligase
+498,NC_22356.1_1179728_1181359,HIFGL_RS05670,glutamine--tRNA ligase
+499,NC_22356.1_556973_557878,HIFGL_RS02770,glycine--tRNA ligase subunit alpha
+500,NC_22356.1_554219_556282,HIFGL_RS02755,glycine--tRNA ligase subunit beta
+501,NC_22356.1_1760681_1761937,HIFGL_RS08440,histidine--tRNA ligase
+502,NC_22356.1_590492_593305,HIFGL_RS02940,isoleucine--tRNA ligase
+503,NC_22356.1_1154546_1156861,HIFGL_RS05580,hypothetical protein
+504,NC_22356.1_549763_552342,HIFGL_RS02735,leucine--tRNA ligase
+505,NC_22356.1_988614_990659,HIFGL_RS04785,methionine--tRNA ligase
+506,NC_22356.1_1087694_1088680,HIFGL_RS05305,phenylalanine--tRNA ligase subunit alpha
+507,NC_22356.1_1088717_1091101,HIFGL_RS05310,phenylalanine--tRNA ligase subunit beta
+508,NC_22356.1_171393_173087,HIFGL_RS00820,proline--tRNA ligase
+509,NC_22356.1_886756_888039,HIFGL_RS04365,serine--tRNA ligase
+510,NC_22356.1_1120374_1122299,HIFGL_RS05440,threonine--tRNA ligase
+511,NC_22356.1_269423_270418,HIFGL_RS01330,tryptophan--tRNA ligase
+512,NC_22356.1_1153994_1156855,HIFGL_RS05575,valine--tRNA ligase
+513,NC_22356.1_31864_32994,HIFGL_RS00140,tRNA guanosine(34) transglycosylase Tgt
+514,NC_22356.1_1833053_1835215,HIFGL_RS08850,heavy metal translocating P-type ATPase
+515,NC_22356.1_1451708_1453495,HIFGL_RS06975,long-chain fatty acid--CoA ligase
+516,NC_22356.1_1784349_1784924,HIFGL_RS08575,aminoacyl-tRNA hydrolase
+517,NC_22356.1_928000_928644,HIFGL_RS04550,(d)CMP kinase
+518,NC_22356.1_1552191_1553159,HIFGL_RS07455,[citrate (pro-3S)-lyase] ligase
+519,NC_22356.1_542419_543453,HIFGL_RS02705,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+520,NC_22356.1_730957_731742,HIFGL_RS03580,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase
+521,NC_22356.1_1811063_1812826,HIFGL_RS08720,aspartate--tRNA ligase
+522,NC_22356.1_1851727_1853160,HIFGL_RS08940,glutamate--tRNA ligase
+523,NC_22356.1_188776_191121,HIFGL_RS00900,glycerol-3-phosphate 1-O-acyltransferase PlsB
+524,NC_22356.1_4609_5187,HIFGL_RS00030,glycerol-3-phosphate 1-O-acyltransferase PlsY
+525,NC_22356.1_1554601_1555209,HIFGL_RS07465,lipoyl(octanoyl) transferase LipB
+526,NC_22356.1_1406065_1407027,HIFGL_RS06800,UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase
+527,NC_22356.1_430743_431624,HIFGL_RS02065,N-acetylmuramic acid 6-phosphate etherase
+528,NC_22356.1_791755_792696,HIFGL_RS03870,ABC transporter ATP-binding protein
+529,NC_22356.1_1170665_1172593,HIFGL_RS05645,glycogen debranching protein GlgX
+530,NC_22356.1_1175008_1176831,HIFGL_RS05655,4-alpha-glucanotransferase
+531,NC_22356.1_1059384_1060259,HIFGL_RS05175,DMT family transporter
+532,NC_22356.1_954135_955322,HIFGL_RS04660,Bcr/CflA family multidrug efflux MFS transporter
+533,NC_22356.1_1561770_1563200,HIFGL_RS07505,putative transporter
+534,NC_22356.1_745284_746801,HIFGL_RS03640,cytochrome ubiquinol oxidase subunit I
+535,NC_22356.1_350324_351211,HIFGL_RS01715,"1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+536,NC_22356.1_1160551_1161156,HIFGL_RS05605,chalcone isomerase family protein
+537,NC_22356.1_1162088_1163104,HIFGL_RS05615,quinone-dependent dihydroorotate dehydrogenase
+538,NC_22356.1_509067_510719,HIFGL_RS02555,fumarate reductase (quinol) flavoprotein subunit
+539,NC_22356.1_1172764_1174956,HIFGL_RS05650,"1,4-alpha-glucan branching protein GlgB"
+540,NC_22356.1_1167776_1169203,HIFGL_RS05635,glycogen synthase GlgA
+541,NC_22356.1_914316_915815,HIFGL_RS04500,lysine--tRNA ligase
+542,NC_22356.1_39232_41829,HIFGL_RS00185,penicillin-binding protein 1A
+543,NC_22356.1_1558878_1560722,HIFGL_RS07490,penicillin-binding protein 2
+544,NC_22356.1_1524015_1525637,HIFGL_RS07320,penicillin-binding transpeptidase domain-containing protein
+545,NC_22356.1_1412699_1414393,HIFGL_RS06830,penicillin-binding protein 1B
+546,NC_22356.1_658614_659558,HIFGL_RS03220,magnesium/cobalt transporter CorA
+547,NC_22356.1_1824335_1825192,HIFGL_RS08795,CNNM family magnesium/cobalt transport protein CorC
+548,NC_22356.1_382725_384080,HIFGL_RS01880,L-seryl-tRNA(Sec) selenium transferase
+549,NC_22356.1_1112773_1114305,HIFGL_RS05415,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+550,NC_22356.1_1547887_1549248,HIFGL_RS07435,triphosphoribosyl-dephospho-CoA synthase CitG
+551,NC_22356.1_521163_524201,HIFGL_RS02610,efflux RND transporter permease subunit
+552,NC_22356.1_525255_526769,HIFGL_RS02620,DHA2 family efflux MFS transporter permease subunit
+553,NC_22356.1_939143_940528,HIFGL_RS04610,dihydrolipoyl dehydrogenase
+554,NC_22356.1_1842246_1843898,HIFGL_RS08880,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+555,NC_22356.1_1844014_1844754,HIFGL_RS08885,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+556,NC_22356.1_357998_358414,HIFGL_RS01755,D-ribose pyranase
+557,NC_22356.1_829464_831311,HIFGL_RS04065,sialic acid TRAP transporter substrate-binding protein SiaT
+558,NC_22356.1_1750377_1751486,HIFGL_RS08390,porin
+559,NC_22356.1_52018_53538,HIFGL_RS00255,Na(+)/H(+) antiporter NhaB
+560,NC_22356.1_1267473_1268972,HIFGL_RS06110,Na+/H+ antiporter NhaC family protein
+561,NC_22356.1_866847_868145,HIFGL_RS04270,sodium:alanine symporter family protein
+562,NC_22356.1_1066081_1067250,HIFGL_RS05205,sodium/glutamate symporter
+563,NC_22356.1_1061282_1063279,HIFGL_RS05185,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC
+564,NC_22356.1_1107291_1108022,HIFGL_RS05390,SDR family oxidoreductase
+565,NC_22356.1_276325_278661,HIFGL_RS01380,trimethylamine-N-oxide reductase TorA
+566,NC_22356.1_669191_669808,HIFGL_RS03270,DMSO/selenate family reductase complex B subunit
+567,NC_22356.1_668350_669186,HIFGL_RS03265,dimethyl sulfoxide reductase anchor subunit family protein
+568,NC_22356.1_1241827_1243020,HIFGL_RS06000,cysteine desulfurase
+569,NC_22356.1_1647935_1648570,HIFGL_RS07875,L-fuculose-phosphate aldolase
+570,NC_22356.1_1608841_1610961,HIFGL_RS07715,anaerobic ribonucleoside-triphosphate reductase
+571,NC_22356.1_144249_145625,HIFGL_RS00695,F0F1 ATP synthase subunit beta
